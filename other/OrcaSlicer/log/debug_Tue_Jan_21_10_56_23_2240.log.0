@@ -1,0 +1,48 @@
+[error]	2025-01-21 10:56:28.452788[Thread 0x00000c64]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-21 10:56:28.461787[Thread 0x00004cc8]:Unable to open the fileC:\Users\me\Downloads\Disc.3mf
+[error]	2025-01-21 10:56:28.461787[Thread 0x00004cc8]:Unable to open the fileC:\Users\me\Downloads\dust_filter_v2.stl
+[error]	2025-01-21 10:56:28.461787[Thread 0x00004cc8]:Unable to open the fileC:\Users\me\Downloads\Camera_Mount_Back.stl
+[error]	2025-01-21 10:56:28.462789[Thread 0x0000479c]:Unable to open the fileC:\Users\me\Downloads\PTFE.3mf
+[error]	2025-01-21 10:56:28.462789[Thread 0x0000479c]:Unable to open the fileC:\Users\me\Downloads\óÑασ_41d92939-ff16-499d-8ccc-68c7c479ced5.3mf
+[error]	2025-01-21 10:56:28.462789[Thread 0x0000479c]:Unable to open the fileC:\Users\me\Downloads\Camera_Mount_Back.3mf
+[error]	2025-01-21 10:56:28.462789[Thread 0x00000548]:Unable to open the fileC:\Users\me\Downloads\απτ¬á_90391c67-074d-4805-b30d-35e46cb78198.3mf
+[error]	2025-01-21 10:56:28.462789[Thread 0x0000479c]:Unable to open the fileC:\Users\me\Downloads\SupportQMX v3.3mf
+[error]	2025-01-21 10:56:28.462789[Thread 0x0000479c]:Unable to open the fileC:\Users\me\Downloads\SupportQMX v3.stl
+[error]	2025-01-21 10:56:28.462789[Thread 0x0000479c]:Unable to open the fileC:\Users\me\Downloads\MF_stok_motor-2.stl
+[error]	2025-01-21 10:56:28.462789[Thread 0x00003970]:Unable to open the fileC:\Users\me\Downloads\крепление BL-Touch.3mf
+[error]	2025-01-21 10:56:28.462789[Thread 0x00000548]:Unable to open the fileC:\Users\me\Downloads\base.3mf
+[error]	2025-01-21 10:56:28.467789[Thread 0x00000c64]:Unable to open the fileC:\Users\me\Downloads\files\6mm_magnet_holder.stl
+[error]	2025-01-21 10:56:28.469789[Thread 0x00004088]:Unable to open the fileC:\Users\me\Downloads\PTFE.stl
+[error]	2025-01-21 10:56:28.471789[Thread 0x00004cc8]:Unable to open the fileC:\Program Files\OrcaSlicer\resources/calib/tolerance_test/OrcaToleranceTest.stl
+[error]	2025-01-21 10:56:32.893763[Thread 0x00000c64]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-01-21 10:56:33.034776[Thread 0x00000c64]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-01-21 10:56:34.041663[Thread 0x00001abc]:Error getting: `check_new_version_sf`: HTTP 0, curl:Timeout was reached:
+Operation timed out after 1005 milliseconds with 0 out of 0 bytes received
+[Error 28]
+[error]	2025-01-21 10:56:35.618876[Thread 0x00000c64]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-21 10:56:43.450679[Thread 0x00000c64]:Unable to open the fileC:\Users\me\Downloads\files\6mm_magnet_holder.stl
+[error]	2025-01-21 10:56:47.649150[Thread 0x00000c64]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-21 11:00:26.550184[Thread 0x00000c64]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-01-21 11:00:35.364469[Thread 0x00000c64]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-01-21 11:00:36.371128[Thread 0x00000c64]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-01-21 11:01:26.534805[Thread 0x00000c64]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-01-21 11:03:11.829730[Thread 0x00000c64]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-01-21 11:04:36.026375[Thread 0x00000c64]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-01-21 11:04:39.151683[Thread 0x00000c64]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-01-21 11:04:47.164574[Thread 0x00000c64]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-01-21 11:06:46.384678[Thread 0x00000c64]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-01-21 11:20:37.225118[Thread 0x00000c64]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-01-21 11:20:39.500671[Thread 0x00000c64]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-01-21 14:07:28.783986[Thread 0x00000c64]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-21 14:09:28.179077[Thread 0x00000c64]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-21 14:09:28.676981[Thread 0x00000c64]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-21 14:09:28.865365[Thread 0x00000c64]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-21 14:09:29.070992[Thread 0x00000c64]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-21 14:09:29.550973[Thread 0x00000c64]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-21 14:09:29.806973[Thread 0x00000c64]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-21 14:09:30.084791[Thread 0x00000c64]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-21 14:09:30.729099[Thread 0x00000c64]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-21 14:09:31.200152[Thread 0x00000c64]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-21 14:10:11.596394[Thread 0x00000c64]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-01-21 14:10:13.746054[Thread 0x00000c64]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-01-21 19:42:45.755365[Thread 0x00000c64]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

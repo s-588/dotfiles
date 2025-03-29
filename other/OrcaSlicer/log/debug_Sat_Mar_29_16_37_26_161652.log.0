@@ -1,0 +1,26 @@
+[error]	2025-03-29 16:37:28.563694[Thread 0x00007fc531b2e380]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-29 16:37:28.572587[Thread 0x00007fc490bfb6c0]:Unable to open the fileC:\Users\me\Downloads\organizer.stl
+[error]	2025-03-29 16:37:28.572610[Thread 0x00007fc531b2e380]:Unable to open the file/home/me/Downloads/LiftGhost6.3mf
+[error]	2025-03-29 16:37:28.572616[Thread 0x00007fc490bfb6c0]:Unable to open the file/home/me/Downloads/NogkaKolpakaFBG6.stl
+[error]	2025-03-29 16:37:28.572628[Thread 0x00007fc490bfb6c0]:Unable to open the fileC:\Users\me\Downloads\Caliper.stl
+[error]	2025-03-29 16:37:28.572634[Thread 0x00007fc490bfb6c0]:Unable to open the fileC:\Users\me\Downloads\stand.3mf
+[error]	2025-03-29 16:37:28.572628[Thread 0x00007fc4847fa6c0]:Unable to open the fileC:\Users\me\Downloads\modular-gridfinity-drawer-2x5 (1).stl
+[error]	2025-03-29 16:37:28.572631[Thread 0x00007fc531b2e380]:Unable to open the file/home/me/Downloads/obduv_VULKANO.stl
+[error]	2025-03-29 16:37:28.572677[Thread 0x00007fc531b2e380]:Unable to open the fileC:\Users\me\Downloads\Case+with+integrated+log+tray+for+QMX_QCX+mini+TRX\casing.3mf
+[error]	2025-03-29 16:37:28.572677[Thread 0x00007fc490bfb6c0]:Unable to open the fileC:\Users\me\Downloads\stand.stl
+[error]	2025-03-29 16:37:28.572677[Thread 0x00007fc51c4706c0]:Unable to open the fileC:\Users\me\Downloads\washbottle_holder_2x2.stl
+[error]	2025-03-29 16:37:28.572693[Thread 0x00007fc4987ff6c0]:Unable to open the fileC:\Users\me\Downloads\Caliper.3mf
+[error]	2025-03-29 16:37:28.572703[Thread 0x00007fc46fbfe6c0]:Unable to open the fileC:\Users\me\Downloads\files\6mm_magnet_holder.3mf
+[error]	2025-03-29 16:37:28.572712[Thread 0x00007fc490ffc6c0]:Unable to open the fileC:\Users\me\Downloads\files\6mm_magnet_holder.stl
+[error]	2025-03-29 16:37:28.572723[Thread 0x00007fc484bfb6c0]:Unable to open the fileC:\Users\me\Downloads\EW 2.0.stl
+[error]	2025-03-29 16:37:28.572733[Thread 0x00007fc46f7fd6c0]:Unable to open the file/home/me/Downloads/LiftGhost6.stl
+[error]	2025-03-29 16:37:28.572741[Thread 0x00007fc46ffff6c0]:Unable to open the fileC:\Users\me\Downloads\modular-gridfinity-drawer-2x5.stl
+[error]	2025-03-29 16:37:28.572750[Thread 0x00007fc4907fa6c0]:Unable to open the fileC:\Users\me\Desktop\Cube.3mf
+[error]	2025-03-29 16:37:28.572778[Thread 0x00007fc484ffc6c0]:Unable to open the fileC:\Users\me\Downloads\casing.3mf
+[warning]	2025-03-29 16:37:28.767769[Thread 0x00007fc531b2e380]:04:37:28 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-03-29 16:37:28.777414[Thread 0x00007fc531b2e380]:04:37:28 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-03-29 16:37:28.778755[Thread 0x00007fc531b2e380]:04:37:28 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-03-29 16:37:28.781212[Thread 0x00007fc531b2e380]:04:37:28 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-03-29 16:37:30.481576[Thread 0x00007fc531b2e380]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-03-29 16:37:30.498752[Thread 0x00007fc531b2e380]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-03-29 16:37:32.372561[Thread 0x00007fc531b2e380]:calc_exclude_triangles:Unable to create exclude triangles

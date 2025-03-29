@@ -1,0 +1,8 @@
+gui-apps/waybar network mpd tray wifi
+# required by gui-wm/sway-1.9-r1::gentoo[wallpapers]
+# required by sway (argument)
+>=gui-apps/swaybg-1.2.1 gdk-pixbuf
+# required by gui-wm/wayfire-0.9.0::gentoo
+# required by gui-libs/wayfire-plugins-extra-0.9.0::gentoo
+# required by gui-libs/wayfire-plugins-extra (argument)
+>=gui-libs/wlroots-0.17.4:0 x11-backend

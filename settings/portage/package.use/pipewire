@@ -1,0 +1,2 @@
+media-video/pipewire pipewire-alsa sound-server
+x11-misc/polybar i3wm mpd network

@@ -1,0 +1,18 @@
+[error]	2025-01-28 19:34:26.641686[Thread 0x00002194]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-28 19:34:26.661549[Thread 0x00003f80]:Unable to open the fileC:\Users\me\Downloads\MF_stok_motor-2.stl
+[error]	2025-01-28 19:34:26.661549[Thread 0x00003f70]:Unable to open the fileC:\Users\me\Downloads\PTFE.3mf
+[error]	2025-01-28 19:34:26.661549[Thread 0x00003f74]:Unable to open the fileC:\Users\me\Downloads\SupportQMX v3.stl
+[error]	2025-01-28 19:34:26.661549[Thread 0x00003f80]:Unable to open the fileC:\Users\me\Downloads\SupportQMX v3.3mf
+[error]	2025-01-28 19:34:26.661549[Thread 0x00003f78]:Unable to open the fileC:\Users\me\Downloads\Camera_Mount_Back.3mf
+[error]	2025-01-28 19:34:26.661549[Thread 0x00003f78]:Unable to open the fileC:\Users\me\Downloads\Disc.3mf
+[error]	2025-01-28 19:34:26.661549[Thread 0x00003e4c]:Unable to open the fileC:\Users\me\Downloads\dust_filter_v2.stl
+[error]	2025-01-28 19:34:26.661549[Thread 0x00003f8c]:Unable to open the fileC:\Users\me\Downloads\óÑασ_41d92939-ff16-499d-8ccc-68c7c479ced5.3mf
+[error]	2025-01-28 19:34:26.662550[Thread 0x00003e54]:Unable to open the fileC:\Users\me\Downloads\Camera_Mount_Back.stl
+[error]	2025-01-28 19:34:26.662550[Thread 0x00003f80]:Unable to open the fileC:\Users\me\Downloads\base.3mf
+[error]	2025-01-28 19:34:26.662550[Thread 0x00003f70]:Unable to open the fileC:\Users\me\Downloads\απτ¬á_90391c67-074d-4805-b30d-35e46cb78198.3mf
+[error]	2025-01-28 19:34:26.670551[Thread 0x00003e58]:Unable to open the fileC:\Users\me\Downloads\files\6mm_magnet_holder.stl
+[error]	2025-01-28 19:34:26.671551[Thread 0x00003f88]:Unable to open the fileC:\Users\me\Downloads\PTFE.stl
+[error]	2025-01-28 19:34:26.677688[Thread 0x00003f78]:Unable to open the fileC:\Program Files\OrcaSlicer\resources/calib/tolerance_test/OrcaToleranceTest.stl
+[error]	2025-01-28 19:34:31.836413[Thread 0x00002194]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-01-28 19:34:31.993052[Thread 0x00002194]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-01-28 19:38:54.851927[Thread 0x00002194]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

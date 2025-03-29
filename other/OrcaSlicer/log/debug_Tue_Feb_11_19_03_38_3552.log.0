@@ -1,0 +1,28 @@
+[error]	2025-02-11 19:03:43.124482[Thread 0x00003404]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-11 19:03:43.138129[Thread 0x00000a14]:Unable to open the fileC:\Users\me\Downloads\files\6mm_magnet_holder.stl
+[error]	2025-02-11 19:03:43.138129[Thread 0x0000360c]:Unable to open the fileC:\Users\me\Downloads\PTFE.3mf
+[error]	2025-02-11 19:03:43.138129[Thread 0x00002734]:Unable to open the fileC:\Users\me\Desktop\many.3mf
+[error]	2025-02-11 19:03:43.138129[Thread 0x00000828]:Unable to open the fileC:\Users\me\Downloads\PTFE.stl
+[error]	2025-02-11 19:03:43.139129[Thread 0x00000cb8]:Unable to open the fileC:\Users\me\Downloads\Basement for Flying Bear\Light details\back-inner-center.3mf
+[error]	2025-02-11 19:03:43.139129[Thread 0x00000828]:Unable to open the fileC:\Users\me\Downloads\files\6mm_magnet_holder.3mf
+[error]	2025-02-11 19:03:43.146683[Thread 0x00000914]:Unable to open the fileC:\Users\me\Downloads\organizer.stl
+[error]	2025-02-11 19:03:43.149557[Thread 0x00003b18]:Unable to open the fileC:\Users\me\Downloads\washbottle_holder_2x2.stl
+[error]	2025-02-11 19:03:43.152675[Thread 0x00002734]:Unable to open the fileC:\Users\me\Downloads\Caliper.stl
+[error]	2025-02-11 19:03:43.152725[Thread 0x00000a14]:Unable to open the fileC:\Users\me\Downloads\stand.stl
+[error]	2025-02-11 19:03:43.155236[Thread 0x00000828]:Unable to open the fileC:\Users\me\Downloads\modular-gridfinity-drawer-2x5.stl
+[error]	2025-02-11 19:03:43.155236[Thread 0x00000cb8]:Unable to open the fileC:\Users\me\Downloads\modular-gridfinity-drawer-2x5 (1).stl
+[error]	2025-02-11 19:03:43.161423[Thread 0x00001c5c]:Unable to open the fileC:\Users\me\Downloads\EW 2.0.stl
+[error]	2025-02-11 19:03:47.354406[Thread 0x00003404]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-02-11 19:03:47.453785[Thread 0x00003404]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-02-11 19:08:10.198511[Thread 0x00003404]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-11 19:08:10.380395[Thread 0x00003404]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-02-11 21:39:04.944082[Thread 0x0000394c]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":64.000000,"clearance_height_to_lid":80.000000,"cleareance_radius":40.000000,"printable_height":200.000000,
+[error]	2025-02-11 21:41:55.258801[Thread 0x00003404]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-11 21:42:02.680856[Thread 0x00003404]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-11 22:14:46.175042[Thread 0x00003404]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-11 22:14:46.423071[Thread 0x00003404]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-11 22:15:03.275591[Thread 0x00003404]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-11 22:15:17.987303[Thread 0x00003404]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-11 22:16:32.355203[Thread 0x00003404]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-02-11 22:16:34.582147[Thread 0x00003404]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-02-12 12:18:28.206612[Thread 0x00003404]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

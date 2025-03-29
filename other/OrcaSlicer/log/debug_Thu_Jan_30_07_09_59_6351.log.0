@@ -1,0 +1,39 @@
+[error]	2025-01-30 07:10:00.484300[Thread 0x00007f6e3b866740]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-30 07:10:00.493930[Thread 0x00007f6d72bfa6c0]:Unable to open the fileC:\Users\me\Desktop\many.3mf
+[error]	2025-01-30 07:10:00.493945[Thread 0x00007f6d733fc6c0]:Unable to open the fileC:\Users\me\Downloads\PTFE.3mf
+[error]	2025-01-30 07:10:00.493964[Thread 0x00007f6d727f96c0]:Unable to open the fileC:\Users\me\Desktop\model.3mf
+[error]	2025-01-30 07:10:00.493971[Thread 0x00007f6d733fc6c0]:Unable to open the fileC:\Users\me\Downloads\base.3mf
+[error]	2025-01-30 07:10:00.493965[Thread 0x00007f6d72bfa6c0]:Unable to open the fileC:\Users\me\Downloads\απτ¬á_90391c67-074d-4805-b30d-35e46cb78198.3mf
+[error]	2025-01-30 07:10:00.493987[Thread 0x00007f6d887fe6c0]:Unable to open the fileC:\Users\me\Downloads\files\6mm_magnet_holder.stl
+[error]	2025-01-30 07:10:00.493996[Thread 0x00007f6d733fc6c0]:Unable to open the fileC:\Users\me\Downloads\SupportQMX v3.stl
+[error]	2025-01-30 07:10:00.493994[Thread 0x00007f6d727f96c0]:Unable to open the fileC:\Users\me\Downloads\Camera_Mount_Back.3mf
+[error]	2025-01-30 07:10:00.493995[Thread 0x00007f6d723f86c0]:Unable to open the fileC:\Users\me\Downloads\files\6mm_magnet_holder.3mf
+[error]	2025-01-30 07:10:00.494009[Thread 0x00007f6d71ff76c0]:Unable to open the fileC:\Users\me\Downloads\óÑασ_41d92939-ff16-499d-8ccc-68c7c479ced5.3mf
+[error]	2025-01-30 07:10:00.493997[Thread 0x00007f6d72bfa6c0]:Unable to open the fileC:\Users\me\Downloads\Disc.3mf
+[error]	2025-01-30 07:10:00.494022[Thread 0x00007f6d887fe6c0]:Unable to open the fileC:\Users\me\Downloads\SupportQMX v3.3mf
+[error]	2025-01-30 07:10:00.494021[Thread 0x00007f6d987fc6c0]:Unable to open the fileC:\Users\me\Downloads\MF_stok_motor-2.stl
+[error]	2025-01-30 07:10:00.494041[Thread 0x00007f6d737fd6c0]:Unable to open the fileC:\Users\me\Downloads\Basement for Flying Bear\Light details\back-inner-center.3mf
+[error]	2025-01-30 07:10:00.494060[Thread 0x00007f6d72ffb6c0]:Unable to open the fileC:\Users\me\Downloads\PTFE.stl
+[error]	2025-01-30 07:10:00.494705[Thread 0x00007f6d73bfe6c0]:Unable to open the file/home/me/Downloads/xy-skew.stl
+[error]	2025-01-30 07:10:00.497808[Thread 0x00007f6d73fff6c0]:Unable to open the file/home/me/Downloads/Анемометр/Blade 2.0.stl
+[warning]	2025-01-30 07:10:00.784581[Thread 0x00007f6e3b866740]:07:10:00 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-01-30 07:10:00.786673[Thread 0x00007f6e3b866740]:07:10:00 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-01-30 07:10:00.788110[Thread 0x00007f6e3b866740]:07:10:00 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-01-30 07:10:00.789790[Thread 0x00007f6e3b866740]:07:10:00 AM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-01-30 07:10:02.458908[Thread 0x00007f6e3b866740]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-01-30 07:10:02.476071[Thread 0x00007f6e3b866740]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-01-30 07:10:05.240327[Thread 0x00007f6e3b866740]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-30 07:10:09.373692[Thread 0x00007f6e3b866740]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-30 07:10:09.488434[Thread 0x00007f6e3b866740]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-30 10:59:43.920456[Thread 0x00007f6e3b866740]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-30 10:59:56.189158[Thread 0x00007f6e3b866740]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-30 12:34:31.166486[Thread 0x00007f6e3b866740]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-30 12:41:26.465923[Thread 0x00007f6e3b866740]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-30 12:41:45.356868[Thread 0x00007f6e3b866740]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-01-30 12:44:22.990425[Thread 0x00007f6e3b866740]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-01-30 12:44:25.264402[Thread 0x00007f6e3b866740]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-01-30 12:46:01.459872[Thread 0x00007f6e3b866740]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-01-30 12:55:46.118166[Thread 0x00007f6e3b866740]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-01-30 12:56:08.494950[Thread 0x00007f6e3b866740]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-01-30 13:00:49.963378[Thread 0x00007f6e3b866740]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-30 13:00:50.124352[Thread 0x00007f6e3b866740]:calc_exclude_triangles:Unable to create exclude triangles

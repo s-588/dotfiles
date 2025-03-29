@@ -1,0 +1,28 @@
+[error]	2025-02-02 11:25:00.215116[Thread 0x00000a6c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-02 11:25:00.248435[Thread 0x00003308]:Unable to open the fileC:\Users\me\Downloads\Basement for Flying Bear\Light details\back-inner-center.3mf
+[error]	2025-02-02 11:25:00.248435[Thread 0x00003330]:Unable to open the fileC:\Users\me\Downloads\PTFE.stl
+[error]	2025-02-02 11:25:00.248435[Thread 0x0000335c]:Unable to open the fileC:\Users\me\Downloads\MF_stok_motor-2.stl
+[error]	2025-02-02 11:25:00.248435[Thread 0x00003300]:Unable to open the fileC:\Users\me\Downloads\SupportQMX v3.3mf
+[error]	2025-02-02 11:25:00.248435[Thread 0x00003310]:Unable to open the fileC:\Users\me\Desktop\many.3mf
+[error]	2025-02-02 11:25:00.248435[Thread 0x00003360]:Unable to open the fileC:\Users\me\Downloads\απτ¬á_90391c67-074d-4805-b30d-35e46cb78198.3mf
+[error]	2025-02-02 11:25:00.248435[Thread 0x00003320]:Unable to open the fileC:\Users\me\Downloads\PTFE.3mf
+[error]	2025-02-02 11:25:00.248435[Thread 0x00003300]:Unable to open the fileC:\Users\me\Downloads\base.3mf
+[error]	2025-02-02 11:25:00.248435[Thread 0x00003330]:Unable to open the fileC:\Users\me\Downloads\files\6mm_magnet_holder.stl
+[error]	2025-02-02 11:25:00.248435[Thread 0x0000335c]:Unable to open the fileC:\Users\me\Downloads\Camera_Mount_Back.3mf
+[error]	2025-02-02 11:25:00.248435[Thread 0x00003310]:Unable to open the fileC:\Users\me\Downloads\óÑασ_41d92939-ff16-499d-8ccc-68c7c479ced5.3mf
+[error]	2025-02-02 11:25:00.248435[Thread 0x00003360]:Unable to open the fileC:\Users\me\Desktop\model.3mf
+[error]	2025-02-02 11:25:00.248435[Thread 0x00003330]:Unable to open the fileC:\Users\me\Downloads\dust_filter_v2.stl
+[error]	2025-02-02 11:25:00.248435[Thread 0x00003300]:Unable to open the fileC:\Users\me\Downloads\Disc.3mf
+[error]	2025-02-02 11:25:00.248435[Thread 0x00003308]:Unable to open the fileC:\Users\me\Downloads\SupportQMX v3.stl
+[error]	2025-02-02 11:25:00.248435[Thread 0x0000330c]:Unable to open the fileC:\Users\me\Downloads\files\6mm_magnet_holder.3mf
+[error]	2025-02-02 11:25:08.590392[Thread 0x00000a6c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-02-02 11:25:09.038780[Thread 0x00000a6c]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-02-02 11:58:27.413972[Thread 0x00000a6c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-02 11:58:27.602953[Thread 0x00000a6c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-02 12:03:52.972039[Thread 0x00000a6c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-02-02 12:52:26.369117[Thread 0x00000a6c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-02 12:52:26.946457[Thread 0x00000a6c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-02 12:52:46.550145[Thread 0x00000a6c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-02-02 22:41:21.328556[Thread 0x0000380c]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":64.000000,"clearance_height_to_lid":80.000000,"cleareance_radius":40.000000,"printable_height":200.000000,
+[error]	2025-02-02 22:52:17.928794[Thread 0x00000a6c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-02 23:57:51.391996[Thread 0x00000a6c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

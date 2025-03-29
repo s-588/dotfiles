@@ -1,0 +1,21 @@
+[error]	2025-01-14 16:00:08.443053[Thread 0x00001f00]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-14 16:00:08.456993[Thread 0x00004420]:Unable to open the fileC:\Users\me\Downloads\dust_filter_v2.stl
+[error]	2025-01-14 16:00:08.456993[Thread 0x00002494]:Unable to open the fileC:\Users\me\Downloads\Camera_Mount_Back.stl
+[error]	2025-01-14 16:00:08.456993[Thread 0x00004420]:Unable to open the fileC:\Users\me\Downloads\MF_stok_motor-2.stl
+[error]	2025-01-14 16:00:08.456993[Thread 0x00002494]:Unable to open the fileC:\Users\me\Downloads\απτ¬á_90391c67-074d-4805-b30d-35e46cb78198.stl
+[error]	2025-01-14 16:00:08.456993[Thread 0x00001944]:Unable to open the fileC:\Users\me\Downloads\крепление BL-Touch.stl
+[error]	2025-01-14 16:00:08.456993[Thread 0x00004420]:Unable to open the fileC:\Users\me\Downloads\SupportQMX v3.3mf
+[error]	2025-01-14 16:00:08.456993[Thread 0x00004e24]:Unable to open the fileC:\Users\me\Downloads\Disc.3mf
+[error]	2025-01-14 16:00:08.456993[Thread 0x00001f00]:Unable to open the fileC:\Users\me\Downloads\PTFE.3mf
+[error]	2025-01-14 16:00:08.456993[Thread 0x00004420]:Unable to open the fileC:\Users\me\Downloads\PTFE.stl
+[error]	2025-01-14 16:00:08.456993[Thread 0x00002494]:Unable to open the fileC:\Users\me\Downloads\óÑασ_41d92939-ff16-499d-8ccc-68c7c479ced5.stl
+[error]	2025-01-14 16:00:08.456993[Thread 0x00004420]:Unable to open the fileC:\Users\me\Downloads\óÑασ_41d92939-ff16-499d-8ccc-68c7c479ced5.3mf
+[error]	2025-01-14 16:00:08.456993[Thread 0x00004e24]:Unable to open the fileC:\Users\me\Downloads\απτ¬á_90391c67-074d-4805-b30d-35e46cb78198.3mf
+[error]	2025-01-14 16:00:08.456993[Thread 0x00002494]:Unable to open the fileC:\Users\me\Downloads\SupportQMX v3.stl
+[error]	2025-01-14 16:00:08.456993[Thread 0x00003628]:Unable to open the fileC:\Users\me\Downloads\крепление BL-Touch.3mf
+[error]	2025-01-14 16:00:08.456993[Thread 0x000048b4]:Unable to open the fileC:\Users\me\Downloads\Camera_Mount_Back.3mf
+[error]	2025-01-14 16:00:08.456993[Thread 0x000027a0]:Unable to open the fileC:\Users\me\Downloads\base.3mf
+[error]	2025-01-14 16:00:08.464727[Thread 0x000005a4]:Unable to open the fileC:\Program Files\OrcaSlicer\resources/calib/tolerance_test/OrcaToleranceTest.stl
+[warning]	2025-01-14 16:00:13.087221[Thread 0x00001f00]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-01-14 16:04:20.618205[Thread 0x00002550]:gcode path conflicts found between PhoneHolder_part1_straight_v1.stl and Knob_v3.stl
+[error]	2025-01-15 19:51:21.162133[Thread 0x00001f00]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
