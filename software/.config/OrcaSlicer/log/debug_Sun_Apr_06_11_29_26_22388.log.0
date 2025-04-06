@@ -1,0 +1,24 @@
+[error]	2025-04-06 11:29:28.096247[Thread 0x00007faa151212c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-06 11:29:28.105187[Thread 0x00007fa956ffb6c0]:Unable to open the file/home/me/Downloads/LiftGhost6.3mf
+[error]	2025-04-06 11:29:28.105187[Thread 0x00007fa968bfb6c0]:Unable to open the fileC:\Users\me\Downloads\modular-gridfinity-drawer-2x5 (1).stl
+[error]	2025-04-06 11:29:28.105260[Thread 0x00007fa9697fe6c0]:Unable to open the fileC:\Users\me\Downloads\stand.3mf
+[error]	2025-04-06 11:29:28.105261[Thread 0x00007fa968bfb6c0]:Unable to open the fileC:\Users\me\Downloads\modular-gridfinity-drawer-2x5.stl
+[error]	2025-04-06 11:29:28.105283[Thread 0x00007fa968bfb6c0]:Unable to open the fileC:\Users\me\Downloads\Case+with+integrated+log+tray+for+QMX_QCX+mini+TRX\casing.3mf
+[error]	2025-04-06 11:29:28.105288[Thread 0x00007fa968bfb6c0]:Unable to open the fileC:\Users\me\Downloads\Caliper.stl
+[error]	2025-04-06 11:29:28.105292[Thread 0x00007fa9697fe6c0]:Unable to open the fileC:\Users\me\Downloads\casing.3mf
+[error]	2025-04-06 11:29:28.105295[Thread 0x00007fa968bfb6c0]:Unable to open the fileC:\Users\me\Desktop\Cube.3mf
+[error]	2025-04-06 11:29:28.105324[Thread 0x00007fa956ffb6c0]:Unable to open the file/home/me/Downloads/obduv_VULKANO.stl
+[error]	2025-04-06 11:29:28.105333[Thread 0x00007fa9573fc6c0]:Unable to open the fileC:\Users\me\Downloads\washbottle_holder_2x2.stl
+[error]	2025-04-06 11:29:28.105344[Thread 0x00007fa9687fa6c0]:Unable to open the fileC:\Users\me\Downloads\EW 2.0.stl
+[error]	2025-04-06 11:29:28.105386[Thread 0x00007fa9577fd6c0]:Unable to open the fileC:\Users\me\Downloads\stand.stl
+[error]	2025-04-06 11:29:28.105397[Thread 0x00007fa957bfe6c0]:Unable to open the fileC:\Users\me\Downloads\Caliper.3mf
+[error]	2025-04-06 11:29:28.105406[Thread 0x00007fa957fff6c0]:Unable to open the file/home/me/Downloads/LiftGhost6.stl
+[error]	2025-04-06 11:29:28.105415[Thread 0x00007fa956bfa6c0]:Unable to open the file/home/me/Downloads/NogkaKolpakaFBG6.stl
+[error]	2025-04-06 11:29:28.105419[Thread 0x00007fa968ffc6c0]:Unable to open the fileC:\Users\me\Downloads\organizer.stl
+[warning]	2025-04-06 11:29:28.395995[Thread 0x00007faa151212c0]:11:29:28: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-06 11:29:28.397903[Thread 0x00007faa151212c0]:11:29:28: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-06 11:29:28.399169[Thread 0x00007faa151212c0]:11:29:28: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-06 11:29:28.405290[Thread 0x00007faa151212c0]:11:29:28: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-04-06 11:29:29.957277[Thread 0x00007faa151212c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-04-06 11:29:29.975515[Thread 0x00007faa151212c0]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-04-06 11:29:32.040833[Thread 0x00007faa151212c0]:calc_exclude_triangles:Unable to create exclude triangles

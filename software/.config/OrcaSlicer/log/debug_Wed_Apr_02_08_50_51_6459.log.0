@@ -1,0 +1,91 @@
+[error]	2025-04-02 08:50:52.752651[Thread 0x00007fdabda492c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-02 08:50:52.762005[Thread 0x00007fdabda492c0]:Unable to open the file/home/me/Downloads/LiftGhost6.3mf
+[error]	2025-04-02 08:50:52.762079[Thread 0x00007fdabda492c0]:Unable to open the fileC:\Users\me\Downloads\casing.3mf
+[error]	2025-04-02 08:50:52.762077[Thread 0x00007fda107f76c0]:Unable to open the file/home/me/Downloads/NogkaKolpakaFBG6.stl
+[error]	2025-04-02 08:50:52.762100[Thread 0x00007fdabda492c0]:Unable to open the fileC:\Users\me\Downloads\modular-gridfinity-drawer-2x5.stl
+[error]	2025-04-02 08:50:52.762099[Thread 0x00007fda113fa6c0]:Unable to open the fileC:\Users\me\Downloads\modular-gridfinity-drawer-2x5 (1).stl
+[error]	2025-04-02 08:50:52.762121[Thread 0x00007fdabda492c0]:Unable to open the fileC:\Users\me\Downloads\stand.stl
+[error]	2025-04-02 08:50:52.762125[Thread 0x00007fda107f76c0]:Unable to open the fileC:\Users\me\Downloads\stand.3mf
+[error]	2025-04-02 08:50:52.762132[Thread 0x00007fda113fa6c0]:Unable to open the fileC:\Users\me\Downloads\files\6mm_magnet_holder.3mf
+[error]	2025-04-02 08:50:52.762133[Thread 0x00007fdabda492c0]:Unable to open the fileC:\Users\me\Downloads\files\6mm_magnet_holder.stl
+[error]	2025-04-02 08:50:52.762133[Thread 0x00007fda10ff96c0]:Unable to open the file/home/me/Downloads/LiftGhost6.stl
+[error]	2025-04-02 08:50:52.762146[Thread 0x00007fd9fbfff6c0]:Unable to open the fileC:\Users\me\Desktop\Cube.3mf
+[error]	2025-04-02 08:50:52.762170[Thread 0x00007fda127ff6c0]:Unable to open the fileC:\Users\me\Downloads\washbottle_holder_2x2.stl
+[error]	2025-04-02 08:50:52.762184[Thread 0x00007fda11bfc6c0]:Unable to open the fileC:\Users\me\Downloads\Caliper.3mf
+[error]	2025-04-02 08:50:52.762197[Thread 0x00007fd9fbbfe6c0]:Unable to open the fileC:\Users\me\Downloads\EW 2.0.stl
+[error]	2025-04-02 08:50:52.762213[Thread 0x00007fda117fb6c0]:Unable to open the file/home/me/Downloads/obduv_VULKANO.stl
+[error]	2025-04-02 08:50:52.762242[Thread 0x00007fda123fe6c0]:Unable to open the fileC:\Users\me\Downloads\Caliper.stl
+[error]	2025-04-02 08:50:52.762326[Thread 0x00007fda10bf86c0]:Unable to open the fileC:\Users\me\Downloads\Case+with+integrated+log+tray+for+QMX_QCX+mini+TRX\casing.3mf
+[error]	2025-04-02 08:50:52.762399[Thread 0x00007fda11ffd6c0]:Unable to open the fileC:\Users\me\Downloads\organizer.stl
+[warning]	2025-04-02 08:50:53.053649[Thread 0x00007fdabda492c0]:08:50:53: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-02 08:50:53.055128[Thread 0x00007fdabda492c0]:08:50:53: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-02 08:50:53.056431[Thread 0x00007fdabda492c0]:08:50:53: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-02 08:50:53.058010[Thread 0x00007fdabda492c0]:08:50:53: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-04-02 08:50:54.661681[Thread 0x00007fdabda492c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-04-02 08:50:54.680909[Thread 0x00007fdabda492c0]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-04-02 08:50:56.360114[Thread 0x00007fdabda492c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-02 08:55:51.059765[Thread 0x00007fdabda492c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-02 09:19:08.870920[Thread 0x00007fdabda492c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-02 09:19:27.679366[Thread 0x00007fdabda492c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-02 09:19:34.194647[Thread 0x00007fdabda492c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-02 09:40:07.343716[Thread 0x00007fdabda492c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-02 09:40:11.975923[Thread 0x00007fdabda492c0]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-04-02 09:42:18.105377[Thread 0x00007fda90ffd6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1,000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":64,000000,"clearance_height_to_lid":80,000000,"clearance_radius":55,000000,"printable_height":200,000000,
+[error]	2025-04-02 10:25:35.913491[Thread 0x00007fdabda492c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-02 10:26:40.585180[Thread 0x00007fdabda492c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-02 10:55:44.999687[Thread 0x00007fdabda492c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-02 11:01:30.595115[Thread 0x00007fdabda492c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-02 20:56:13.667150[Thread 0x00007fdabda492c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-02 20:59:38.208186[Thread 0x00007fdabda492c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-02 21:02:24.787312[Thread 0x00007fdabda492c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-02 21:02:25.002809[Thread 0x00007fdabda492c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-02 21:04:44.193419[Thread 0x00007fdabda492c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-02 21:04:48.272724[Thread 0x00007fdabda492c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-02 21:09:43.945755[Thread 0x00007fdabda492c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-02 21:09:44.286154[Thread 0x00007fdabda492c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-02 21:09:46.020395[Thread 0x00007fdabda492c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-02 21:09:55.624767[Thread 0x00007fdabda492c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-02 21:11:12.702545[Thread 0x00007fdabda492c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-02 21:11:59.413160[Thread 0x00007fdabda492c0]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-04-02 21:12:14.524238[Thread 0x00007fda113fa6c0]:Influence area could not be increased! Data about the Influence area: Radius: 400000 at layer: 89 NextTarget: 89 Distance to top: 3 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0x7fd9605a3f30: Radius: 400000 at layer: 90 NextTarget: 90 Distance to top: 2 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[error]	2025-04-02 21:12:18.911709[Thread 0x00007fdabda492c0]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-04-02 21:13:20.336640[Thread 0x00007fda11ffd6c0]:Influence area could not be increased! Data about the Influence area: Radius: 400000 at layer: 89 NextTarget: 89 Distance to top: 3 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0x7fd9630d1530: Radius: 400000 at layer: 90 NextTarget: 90 Distance to top: 2 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[error]	2025-04-02 21:13:31.641547[Thread 0x00007fd9cb7ff6c0]:call_process:got cancelled exception
+[warning]	2025-04-02 21:13:39.595598[Thread 0x00007fda10bf86c0]:Influence area could not be increased! Data about the Influence area: Radius: 400000 at layer: 89 NextTarget: 89 Distance to top: 3 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0x7fd961e5af38: Radius: 400000 at layer: 90 NextTarget: 90 Distance to top: 2 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[error]	2025-04-02 21:13:44.972046[Thread 0x00007fd9cb7ff6c0]:call_process:got cancelled exception
+[warning]	2025-04-02 21:16:15.035022[Thread 0x00007fda113fa6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-04-02 21:16:15.191137[Thread 0x00007fda113fa6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-04-02 21:18:36.552889[Thread 0x00007fda123fe6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-04-02 21:18:36.820777[Thread 0x00007fd9fbbfe6c0]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-02 21:18:36.923525[Thread 0x00007fda123fe6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-04-03 08:00:13.961729[Thread 0x00007fda90ffd6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1,000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":64,000000,"clearance_height_to_lid":80,000000,"clearance_radius":55,000000,"printable_height":200,000000,
+[error]	2025-04-03 08:00:43.271668[Thread 0x00007fdabda492c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-03 08:07:50.258723[Thread 0x00007fd9ba7ff6c0]:Not primary owner of DBus name - probably another OrcaSlicer instance is running.
+[error]	2025-04-03 08:07:50.258747[Thread 0x00007fd9ba7ff6c0]:Dbus Messages listening terminating.
+[error]	2025-04-03 08:07:50.597165[Thread 0x00007fdabda492c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-03 08:07:50.599462[Thread 0x00007fda113fa6c0]:Unable to open the file/home/me/Downloads/LiftGhost6.stl
+[error]	2025-04-03 08:07:50.599467[Thread 0x00007fda11bfc6c0]:Unable to open the file/home/me/Downloads/NogkaKolpakaFBG6.stl
+[error]	2025-04-03 08:07:50.599462[Thread 0x00007fd9fbbfe6c0]:Unable to open the file/home/me/Downloads/LiftGhost6.3mf
+[error]	2025-04-03 08:07:50.599649[Thread 0x00007fda117fb6c0]:Unable to open the fileC:\Users\me\Downloads\stand.3mf
+[error]	2025-04-03 08:07:50.599656[Thread 0x00007fda117fb6c0]:Unable to open the fileC:\Users\me\Downloads\stand.stl
+[error]	2025-04-03 08:07:50.599656[Thread 0x00007fda113fa6c0]:Unable to open the fileC:\Users\me\Downloads\modular-gridfinity-drawer-2x5 (1).stl
+[error]	2025-04-03 08:07:50.599661[Thread 0x00007fda117fb6c0]:Unable to open the fileC:\Users\me\Downloads\washbottle_holder_2x2.stl
+[error]	2025-04-03 08:07:50.599663[Thread 0x00007fd9fbbfe6c0]:Unable to open the fileC:\Users\me\Downloads\modular-gridfinity-drawer-2x5.stl
+[error]	2025-04-03 08:07:50.599666[Thread 0x00007fdabda492c0]:Unable to open the fileC:\Users\me\Downloads\EW 2.0.stl
+[error]	2025-04-03 08:07:50.599692[Thread 0x00007fd9fbfff6c0]:Unable to open the file/home/me/Downloads/obduv_VULKANO.stl
+[error]	2025-04-03 08:07:50.599775[Thread 0x00007fdabda492c0]:Unable to open the fileC:\Users\me\Downloads\Case+with+integrated+log+tray+for+QMX_QCX+mini+TRX\casing.3mf
+[error]	2025-04-03 08:07:50.599780[Thread 0x00007fdabda492c0]:Unable to open the fileC:\Users\me\Downloads\Caliper.stl
+[error]	2025-04-03 08:07:50.599785[Thread 0x00007fda10ff96c0]:Unable to open the fileC:\Users\me\Downloads\Caliper.3mf
+[error]	2025-04-03 08:07:50.599902[Thread 0x00007fdabda492c0]:Unable to open the fileC:\Users\me\Downloads\casing.3mf
+[error]	2025-04-03 08:07:50.599909[Thread 0x00007fda117fb6c0]:Unable to open the fileC:\Users\me\Desktop\Cube.3mf
+[error]	2025-04-03 08:07:50.599911[Thread 0x00007fda107f76c0]:Unable to open the fileC:\Users\me\Downloads\organizer.stl
+[warning]	2025-04-03 08:07:50.919502[Thread 0x00007fdabda492c0]:08:07:50: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-03 08:07:50.923669[Thread 0x00007fdabda492c0]:08:07:50: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-03 08:07:50.925524[Thread 0x00007fdabda492c0]:08:07:50: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-03 08:07:50.976736[Thread 0x00007fdabda492c0]:08:07:50: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-04-03 08:07:50.987449[Thread 0x00007fdabda492c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-03 08:08:25.737161[Thread 0x00007fdabda492c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-03 08:08:25.763057[Thread 0x00007fdabda492c0]:Failed to delete lockfile /home/me/.config/OrcaSlicer/cache/13259356256174306380.lock
