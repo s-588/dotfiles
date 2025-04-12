@@ -23,6 +23,8 @@ I use real programmer dvorak btw
 sudo cp ./settings/keyboard/evdev.xml /usr/share/X11/xkb/rules/evdev.xml
 sudo cp ./settings/keyboard/rpd.map.gz /usr/share/keymaps/i386/dvorak/
 sudo cp ./settings/keyboard/vconsole.conf /etc/vconsole.conf
+mkdir ~/.keyboard
+cp ./settings/keyboard/xmodmap_rpd ~/.keyboard/xmodmap_rpd
 ```
 
 # Shell
