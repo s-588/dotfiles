@@ -15,19 +15,19 @@
         "110"
     ],
     "fan_max_speed": [
-        "15"
-    ],
-    "fan_min_speed": [
-        "0"
+        "40"
     ],
     "filament_max_volumetric_speed": [
         "8"
     ],
     "filament_retraction_length": [
-        "nil"
+        "0.72"
     ],
     "filament_settings_id": [
         "White ABS"
+    ],
+    "filament_z_hop": [
+        "0.5"
     ],
     "from": "User",
     "full_fan_speed_layer": [
@@ -61,7 +61,7 @@
         "0"
     ],
     "slow_down_layer_time": [
-        "7"
+        "10"
     ],
     "supertack_plate_temp": [
         "110"

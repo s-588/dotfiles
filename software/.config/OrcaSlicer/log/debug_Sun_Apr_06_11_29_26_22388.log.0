@@ -22,3 +22,8 @@
 [error]	2025-04-06 11:29:29.957277[Thread 0x00007faa151212c0]:calc_exclude_triangles:Unable to create exclude triangles
 [warning]	2025-04-06 11:29:29.975515[Thread 0x00007faa151212c0]:get_version, get_version not supported,return 00.00.00.00!
 [error]	2025-04-06 11:29:32.040833[Thread 0x00007faa151212c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-06 11:30:45.694138[Thread 0x00007fa9227fc6c0]:gcode path conflicts found between OrcaPlug and OrcaCube
+[error]	2025-04-06 21:44:23.618982[Thread 0x00007faa151212c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-04-06 21:44:51.303683[Thread 0x00007fa983fff6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":64.000000,"clearance_height_to_lid":80.000000,"clearance_radius":55.000000,"printable_height":200.000000,
+[error]	2025-04-06 22:13:06.601227[Thread 0x00007faa151212c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-07 07:28:18.824942[Thread 0x00007faa151212c0]:calc_exclude_triangles:Unable to create exclude triangles

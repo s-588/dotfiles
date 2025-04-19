@@ -1,0 +1,31 @@
+[error]	2025-04-07 07:40:07.300328[Thread 0x00007f81760d92c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-07 07:40:07.309572[Thread 0x00007f80c5ffe6c0]:Unable to open the file/home/me/Downloads/LiftGhost6.stl
+[error]	2025-04-07 07:40:07.309590[Thread 0x00007f80c57fc6c0]:Unable to open the fileC:\Users\me\Downloads\organizer.stl
+[error]	2025-04-07 07:40:07.309606[Thread 0x00007f80c47f86c0]:Unable to open the fileC:\Users\me\Downloads\EW 2.0.stl
+[error]	2025-04-07 07:40:07.309613[Thread 0x00007f80c5ffe6c0]:Unable to open the fileC:\Users\me\Desktop\Cube.3mf
+[error]	2025-04-07 07:40:07.309618[Thread 0x00007f80c57fc6c0]:Unable to open the fileC:\Users\me\Downloads\modular-gridfinity-drawer-2x5.stl
+[error]	2025-04-07 07:40:07.309615[Thread 0x00007f80affff6c0]:Unable to open the fileC:\Users\me\Downloads\washbottle_holder_2x2.stl
+[error]	2025-04-07 07:40:07.309623[Thread 0x00007f80c57fc6c0]:Unable to open the fileC:\Users\me\Downloads\Caliper.stl
+[error]	2025-04-07 07:40:07.309631[Thread 0x00007f80c47f86c0]:Unable to open the file/home/me/Downloads/LiftGhost6.3mf
+[error]	2025-04-07 07:40:07.309633[Thread 0x00007f80c57fc6c0]:Unable to open the file/home/me/Downloads/NogkaKolpakaFBG6.stl
+[error]	2025-04-07 07:40:07.309650[Thread 0x00007f80dc7f86c0]:Unable to open the fileC:\Users\me\Downloads\stand.3mf
+[error]	2025-04-07 07:40:07.309687[Thread 0x00007f80afbfe6c0]:Unable to open the fileC:\Users\me\Downloads\Caliper.3mf
+[error]	2025-04-07 07:40:07.309698[Thread 0x00007f80c4bf96c0]:Unable to open the fileC:\Users\me\Downloads\Case+with+integrated+log+tray+for+QMX_QCX+mini+TRX\casing.3mf
+[error]	2025-04-07 07:40:07.309706[Thread 0x00007f80af7fd6c0]:Unable to open the fileC:\Users\me\Downloads\casing.3mf
+[error]	2025-04-07 07:40:07.309718[Thread 0x00007f80c53fb6c0]:Unable to open the file/home/me/Downloads/obduv_VULKANO.stl
+[error]	2025-04-07 07:40:07.309728[Thread 0x00007f80c4ffa6c0]:Unable to open the fileC:\Users\me\Downloads\modular-gridfinity-drawer-2x5 (1).stl
+[error]	2025-04-07 07:40:07.309733[Thread 0x00007f80c5bfd6c0]:Unable to open the fileC:\Users\me\Downloads\stand.stl
+[warning]	2025-04-07 07:40:07.610847[Thread 0x00007f81760d92c0]:07:40:07: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-07 07:40:07.612804[Thread 0x00007f81760d92c0]:07:40:07: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-07 07:40:07.614184[Thread 0x00007f81760d92c0]:07:40:07: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-07 07:40:07.615883[Thread 0x00007f81760d92c0]:07:40:07: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-04-07 07:40:09.166387[Thread 0x00007f81760d92c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-04-07 07:40:09.181826[Thread 0x00007f81760d92c0]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-04-07 07:40:09.185026[Thread 0x00007f80721766c0]:Error getting: `check_new_version_sf`: HTTP 0, curl:Couldn't resolve host name:
+Could not resolve host: api.github.com
+[Error 6]
+[error]	2025-04-07 07:40:09.185495[Thread 0x00007f80dffff6c0]:[Orca Updater]: status=0, error=curl:Couldn't resolve host name:
+Could not resolve host: api.bambulab.com
+[Error 6], body=
+[error]	2025-04-07 08:45:35.732645[Thread 0x00007f81760d92c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-07 10:55:17.761809[Thread 0x00007f81760d92c0]:calc_exclude_triangles:Unable to create exclude triangles

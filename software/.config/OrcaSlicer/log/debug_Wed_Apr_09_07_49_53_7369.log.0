@@ -1,0 +1,63 @@
+[error]	2025-04-09 07:49:55.489410[Thread 0x00007fe1e7e042c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-09 07:49:55.497906[Thread 0x00007fe1447ff6c0]:Unable to open the fileC:\Users\me\Downloads\Caliper.3mf
+[error]	2025-04-09 07:49:55.497925[Thread 0x00007fe1377fe6c0]:Unable to open the fileC:\Users\me\Downloads\Case+with+integrated+log+tray+for+QMX_QCX+mini+TRX\casing.3mf
+[error]	2025-04-09 07:49:55.497985[Thread 0x00007fe135bf76c0]:Unable to open the fileC:\Users\me\Downloads\stand.3mf
+[error]	2025-04-09 07:49:55.498017[Thread 0x00007fe1447ff6c0]:Unable to open the fileC:\Users\me\Downloads\modular-gridfinity-drawer-2x5 (1).stl
+[error]	2025-04-09 07:49:55.498043[Thread 0x00007fe1447ff6c0]:Unable to open the fileC:\Users\me\Downloads\modular-gridfinity-drawer-2x5.stl
+[error]	2025-04-09 07:49:55.498055[Thread 0x00007fe1447ff6c0]:Unable to open the fileC:\Users\me\Downloads\washbottle_holder_2x2.stl
+[error]	2025-04-09 07:49:55.498055[Thread 0x00007fe1377fe6c0]:Unable to open the file/home/me/Downloads/LiftGhost6.3mf
+[error]	2025-04-09 07:49:55.498068[Thread 0x00007fe1447ff6c0]:Unable to open the file/home/me/Downloads/obduv_VULKANO.stl
+[error]	2025-04-09 07:49:55.498063[Thread 0x00007fe1367fa6c0]:Unable to open the fileC:\Users\me\Downloads\Caliper.stl
+[error]	2025-04-09 07:49:55.498074[Thread 0x00007fe1373fd6c0]:Unable to open the fileC:\Users\me\Downloads\stand.stl
+[error]	2025-04-09 07:49:55.498085[Thread 0x00007fe136bfb6c0]:Unable to open the fileC:\Users\me\Downloads\EW 2.0.stl
+[error]	2025-04-09 07:49:55.498553[Thread 0x00007fe135bf76c0]:Unable to open the file/home/me/Downloads/LiftGhost6.stl
+[error]	2025-04-09 07:49:55.498754[Thread 0x00007fe1363f96c0]:Unable to open the file/home/me/Downloads/NogkaKolpakaFBG6.stl
+[warning]	2025-04-09 07:49:55.815920[Thread 0x00007fe1e7e042c0]:07:49:55: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-09 07:49:55.817325[Thread 0x00007fe1e7e042c0]:07:49:55: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-09 07:49:55.819216[Thread 0x00007fe1e7e042c0]:07:49:55: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-09 07:49:55.826491[Thread 0x00007fe1e7e042c0]:07:49:55: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-04-09 07:49:57.412788[Thread 0x00007fe1e7e042c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-04-09 07:49:57.432498[Thread 0x00007fe1e7e042c0]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-04-09 07:51:18.345815[Thread 0x00007fe1e7e042c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-09 08:03:11.365279[Thread 0x00007fe1e7e042c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 08:03:20.492021[Thread 0x00007fe1e7e042c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 08:05:20.076643[Thread 0x00007fe1e7e042c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 08:52:35.684102[Thread 0x00007fe1e7e042c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-09 08:52:35.860222[Thread 0x00007fe1e7e042c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-04-09 08:52:43.149690[Thread 0x00007fe1691da6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":64.000000,"clearance_height_to_lid":80.000000,"clearance_radius":55.000000,"printable_height":200.000000,
+[warning]	2025-04-09 08:57:22.691363[Thread 0x00007fe1357f66c0]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 08:57:24.274168[Thread 0x00007fe136ffc6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-04-09 08:57:24.389897[Thread 0x00007fe135ff86c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-04-09 08:57:24.430287[Thread 0x00007fe136ffc6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-04-09 08:57:24.432784[Thread 0x00007fe1357f66c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-04-09 08:57:24.471404[Thread 0x00007fe1587fc6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-04-09 08:57:24.528384[Thread 0x00007fe1373fd6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-04-09 08:57:24.529027[Thread 0x00007fe1357f66c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-04-09 08:57:24.635922[Thread 0x00007fe1373fd6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2025-04-09 08:59:44.152814[Thread 0x00007fe1e7e042c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 09:00:16.746864[Thread 0x00007fe1e7e042c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 09:00:31.914024[Thread 0x00007fe1e7e042c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 09:00:37.244176[Thread 0x00007fe1e7e042c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 09:02:47.191235[Thread 0x00007fe1e7e042c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 09:02:52.808015[Thread 0x00007fe1e7e042c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 09:02:53.309044[Thread 0x00007fe1e7e042c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 09:02:57.113766[Thread 0x00007fe1e7e042c0]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-04-09 09:03:14.088829[Thread 0x00007fe135bf76c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-04-09 09:03:14.091876[Thread 0x00007fe136bfb6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-04-09 09:03:14.124173[Thread 0x00007fe12cffa6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-04-09 09:03:14.205050[Thread 0x00007fe135bf76c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-04-09 09:03:14.209134[Thread 0x00007fe1447ff6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-04-09 09:03:14.219515[Thread 0x00007fe12cffa6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-04-09 09:03:14.245460[Thread 0x00007fe136bfb6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-04-09 09:03:14.279668[Thread 0x00007fe1363f96c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2025-04-09 09:04:04.903712[Thread 0x00007fe1e7e042c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 09:04:06.749865[Thread 0x00007fe1e7e042c0]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-04-09 09:04:26.926398[Thread 0x00007fe1377fe6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-04-09 09:04:27.009265[Thread 0x00007fe12cffa6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-04-09 09:04:27.023575[Thread 0x00007fe1377fe6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-04-09 09:04:27.128654[Thread 0x00007fe12cffa6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-04-09 09:04:27.241719[Thread 0x00007fe136ffc6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-04-09 09:04:27.267088[Thread 0x00007fe1447ff6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-04-09 09:04:27.273550[Thread 0x00007fe136bfb6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-04-09 09:04:27.325411[Thread 0x00007fe1377fe6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2025-04-09 09:05:34.802326[Thread 0x00007fe1e7e042c0]:tree_sel_change_delayedcan not find page with current selection 

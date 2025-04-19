@@ -20,6 +20,9 @@
     "fan_min_speed": [
         "100"
     ],
+    "filament_flow_ratio": [
+        "1"
+    ],
     "filament_max_volumetric_speed": [
         "14"
     ],
@@ -61,10 +64,10 @@
         "100"
     ],
     "pressure_advance": [
-        "0.057"
+        "0.043"
     ],
     "slow_down_layer_time": [
-        "7"
+        "1"
     ],
     "supertack_plate_temp": [
         "60"

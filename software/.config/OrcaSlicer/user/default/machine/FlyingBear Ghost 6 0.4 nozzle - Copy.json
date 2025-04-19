@@ -37,7 +37,7 @@
         "300",
         "200"
     ],
-    "machine_start_gcode": "\nM220 S100 ; Reset feedrate\nM221 S100 ; Reset flowrate\nG90 ; Use absolute coordinates\nM82 ; Set extruder to absolute mode\nG28 ; Home all axes\n\nM140 S0 ; Disable bed temperature setting (we'll use the slicer's bed temperature)\nM104 S0 ; Disable extruder temperature setting (we'll use the slicer's extruder temperature)\n\nM190 S[first_layer_bed_temperature] ; Wait for bed to reach temperature (automatically replaced by slicer)\nM109 S[first_layer_temperature] ; Wait for extruder to reach temperature (automatically replaced by slicer)\n\nG1 Z2 F1500 ; Raise Z to 2mm\nG92 E0 ; Reset extruder\nG1 X75 Y5 F5000 ; Move to start position\nG1 Z0.28 F1500 ; Lower Z to first layer height\nG1 E4 F500 ; Extrude a little to prime the nozzle\nG1 X180 E10 F500 ; Draw the first line\nG1 Y5.4 F5000 ; Move to next line\nG1 X75 E20 F500 ; Draw second line\nG1 Z2 F1500 ; Raise Z to 2mm\nG92 E0 ; Reset extruder\n",
+    "machine_start_gcode": "\nM220 S100 ; Reset feedrate\nM221 S100 ; Reset flowrate\nG90 ; Use absolute coordinates\nM82 ; Set extruder to absolute mode\nG28 ; Home all axes\n\nM140 S0 ; Disable bed temperature setting (we'll use the slicer's bed temperature)\nM104 S0 ; Disable extruder temperature setting (we'll use the slicer's extruder temperature)\n\nM190 S[first_layer_bed_temperature] ; Wait for bed to reach temperature (automatically replaced by slicer)\nM109 S[first_layer_temperature] ; Wait for extruder to reach temperature (automatically replaced by slicer)\n\n",
     "max_layer_height": [
         "0.28"
     ],
@@ -57,7 +57,7 @@
     ],
     "version": "2.1.1.0",
     "z_hop": [
-        "0"
+        "0.3"
     ],
     "z_hop_types": [
         "Auto Lift"

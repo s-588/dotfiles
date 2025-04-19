@@ -1,0 +1,31 @@
+[error]	2025-04-19 21:18:39.241682[Thread 0x00007fc9fcbc82c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-19 21:18:39.250720[Thread 0x00007fc93bbfe6c0]:Unable to open the fileC:\Users\me\Downloads\washbottle_holder_2x2.stl
+[error]	2025-04-19 21:18:39.250735[Thread 0x00007fc96c7fc6c0]:Unable to open the file/home/me/Downloads/obduv_VULKANO.stl
+[error]	2025-04-19 21:18:39.250736[Thread 0x00007fc9593fe6c0]:Unable to open the fileC:\Users\me\Downloads\stand.3mf
+[error]	2025-04-19 21:18:39.250801[Thread 0x00007fc93b7fd6c0]:Unable to open the fileC:\Users\me\Downloads\Case+with+integrated+log+tray+for+QMX_QCX+mini+TRX\casing.3mf
+[error]	2025-04-19 21:18:39.250803[Thread 0x00007fc96c7fc6c0]:Unable to open the file/home/me/Downloads/LiftGhost6.3mf
+[error]	2025-04-19 21:18:39.250827[Thread 0x00007fc96c7fc6c0]:Unable to open the file/home/me/Downloads/LiftGhost6.stl
+[error]	2025-04-19 21:18:39.250803[Thread 0x00007fc9593fe6c0]:Unable to open the file/home/me/Downloads/NogkaKolpakaFBG6.stl
+[error]	2025-04-19 21:18:39.250833[Thread 0x00007fc93b7fd6c0]:Unable to open the fileC:\Users\me\Downloads\Caliper.stl
+[error]	2025-04-19 21:18:39.250883[Thread 0x00007fc958ffd6c0]:Unable to open the fileC:\Users\me\Downloads\EW 2.0.stl
+[error]	2025-04-19 21:18:39.250909[Thread 0x00007fc9587fb6c0]:Unable to open the fileC:\Users\me\Downloads\Caliper.3mf
+[error]	2025-04-19 21:18:39.250979[Thread 0x00007fc93affb6c0]:Unable to open the fileC:\Users\me\Downloads\modular-gridfinity-drawer-2x5 (1).stl
+[error]	2025-04-19 21:18:39.250988[Thread 0x00007fc9597ff6c0]:Unable to open the fileC:\Users\me\Downloads\stand.stl
+[warning]	2025-04-19 21:18:39.472015[Thread 0x00007fc9fcbc82c0]:21:18:39: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-19 21:18:39.477087[Thread 0x00007fc9fcbc82c0]:21:18:39: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-19 21:18:39.478791[Thread 0x00007fc9fcbc82c0]:21:18:39: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-19 21:18:39.480518[Thread 0x00007fc9fcbc82c0]:21:18:39: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-19 21:18:41.174712[Thread 0x00007fc9fcbc82c0]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-04-19 21:18:48.191552[Thread 0x00007fc9fcbc82c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-19 21:18:48.434638[Thread 0x00007fc9fcbc82c0]:_load_model_from_file:1668, loading sub-objects error
+[error]	2025-04-19 21:18:48.434666[Thread 0x00007fc9fcbc82c0]:File /3D/Objects/Assembly_10.model not found from archive
+[error]	2025-04-19 21:18:48.434669[Thread 0x00007fc9fcbc82c0]:File /3D/Objects/Assembly 1_8.model not found from archive
+[error]	2025-04-19 21:18:48.434670[Thread 0x00007fc9fcbc82c0]:File /3D/Objects/Assembly_10.model not found from archive
+[error]	2025-04-19 21:18:48.434671[Thread 0x00007fc9fcbc82c0]:Archive does not contain a valid model for /3D/Objects/Assembly_10.model
+[error]	2025-04-19 21:18:48.434672[Thread 0x00007fc9fcbc82c0]:File /3D/Objects/Assembly 1_8.model not found from archive
+[error]	2025-04-19 21:18:48.434673[Thread 0x00007fc9fcbc82c0]:Archive does not contain a valid model for /3D/Objects/Assembly 1_8.model
+[error]	2025-04-19 21:18:48.434674[Thread 0x00007fc9fcbc82c0]:File /3D/Objects/Assembly 2_9.model not found from archive
+[error]	2025-04-19 21:18:48.434675[Thread 0x00007fc9fcbc82c0]:File /3D/Objects/Assembly 2_9.model not found from archive
+[error]	2025-04-19 21:18:48.434675[Thread 0x00007fc9fcbc82c0]:Archive does not contain a valid model for /3D/Objects/Assembly 2_9.model
+[error]	2025-04-19 21:18:54.303524[Thread 0x00007fc9fcbc82c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-19 21:18:54.649881[Thread 0x00007fc9fcbc82c0]:calc_exclude_triangles:Unable to create exclude triangles

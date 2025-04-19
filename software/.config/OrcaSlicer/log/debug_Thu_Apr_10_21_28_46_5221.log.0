@@ -1,0 +1,29 @@
+[error]	2025-04-10 21:28:47.707036[Thread 0x00007eff07abe2c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-10 21:28:47.718158[Thread 0x00007efe647ff6c0]:Unable to open the fileC:\Users\me\Downloads\Caliper.3mf
+[error]	2025-04-10 21:28:47.718182[Thread 0x00007efe567fb6c0]:Unable to open the file/home/me/Downloads/obduv_VULKANO.stl
+[error]	2025-04-10 21:28:47.718216[Thread 0x00007efe54bf46c0]:Unable to open the file/home/me/Downloads/LiftGhost6.3mf
+[error]	2025-04-10 21:28:47.718233[Thread 0x00007efe567fb6c0]:Unable to open the fileC:\Users\me\Downloads\stand.3mf
+[error]	2025-04-10 21:28:47.718224[Thread 0x00007efe56bfc6c0]:Unable to open the fileC:\Users\me\Downloads\stand.stl
+[error]	2025-04-10 21:28:47.718217[Thread 0x00007efe647ff6c0]:Unable to open the fileC:\Users\me\Downloads\Case+with+integrated+log+tray+for+QMX_QCX+mini+TRX\casing.3mf
+[error]	2025-04-10 21:28:47.718242[Thread 0x00007efe54ff56c0]:Unable to open the fileC:\Users\me\Downloads\Caliper.stl
+[error]	2025-04-10 21:28:47.718255[Thread 0x00007efe56bfc6c0]:Unable to open the fileC:\Users\me\Downloads\washbottle_holder_2x2.stl
+[error]	2025-04-10 21:28:47.718270[Thread 0x00007efe56bfc6c0]:Unable to open the fileC:\Users\me\Downloads\modular-gridfinity-drawer-2x5 (1).stl
+[error]	2025-04-10 21:28:47.718271[Thread 0x00007efe54ff56c0]:Unable to open the fileC:\Users\me\Downloads\modular-gridfinity-drawer-2x5.stl
+[error]	2025-04-10 21:28:47.718280[Thread 0x00007efe54bf46c0]:Unable to open the fileC:\Users\me\Downloads\EW 2.0.stl
+[error]	2025-04-10 21:28:47.718670[Thread 0x00007efe557f76c0]:Unable to open the file/home/me/Downloads/LiftGhost6.stl
+[error]	2025-04-10 21:28:47.719074[Thread 0x00007efe563fa6c0]:Unable to open the file/home/me/Downloads/NogkaKolpakaFBG6.stl
+[warning]	2025-04-10 21:28:48.006024[Thread 0x00007eff07abe2c0]:21:28:48: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-10 21:28:48.008355[Thread 0x00007eff07abe2c0]:21:28:48: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-10 21:28:48.010237[Thread 0x00007eff07abe2c0]:21:28:48: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-10 21:28:48.017787[Thread 0x00007eff07abe2c0]:21:28:48: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-04-10 21:28:49.691500[Thread 0x00007eff07abe2c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-04-10 21:28:49.715895[Thread 0x00007eff07abe2c0]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-04-10 21:29:14.366428[Thread 0x00007eff07abe2c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-10 23:31:52.074540[Thread 0x00007eff07abe2c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-11 07:36:08.667278[Thread 0x00007eff07abe2c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-11 07:53:47.690802[Thread 0x00007efe57fff6c0]:call_process:got other exception
+[error]	2025-04-11 07:53:50.170918[Thread 0x00007efe57fff6c0]:call_process:got other exception
+[error]	2025-04-11 07:54:05.760944[Thread 0x00007efe57fff6c0]:call_process:got other exception
+[error]	2025-04-11 07:54:07.489306[Thread 0x00007efe57fff6c0]:call_process:got other exception
+[error]	2025-04-11 07:54:21.451531[Thread 0x00007efe57fff6c0]:call_process:got other exception
+[error]	2025-04-11 07:54:23.310917[Thread 0x00007efe57fff6c0]:call_process:got other exception

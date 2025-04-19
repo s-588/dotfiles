@@ -1,0 +1,45 @@
+[error]	2025-04-07 19:26:37.765355[Thread 0x00007fd7362152c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-07 19:26:37.775551[Thread 0x00007fd68abfe6c0]:Unable to open the file/home/me/Downloads/LiftGhost6.stl
+[error]	2025-04-07 19:26:37.775563[Thread 0x00007fd68afff6c0]:Unable to open the fileC:\Users\me\Downloads\stand.3mf
+[error]	2025-04-07 19:26:37.775590[Thread 0x00007fd688bf66c0]:Unable to open the fileC:\Users\me\Downloads\stand.stl
+[error]	2025-04-07 19:26:37.775598[Thread 0x00007fd68abfe6c0]:Unable to open the fileC:\Users\me\Downloads\EW 2.0.stl
+[error]	2025-04-07 19:26:37.775592[Thread 0x00007fd68afff6c0]:Unable to open the fileC:\Users\me\Downloads\Case+with+integrated+log+tray+for+QMX_QCX+mini+TRX\casing.3mf
+[error]	2025-04-07 19:26:37.775657[Thread 0x00007fd688bf66c0]:Unable to open the fileC:\Users\me\Downloads\Caliper.stl
+[error]	2025-04-07 19:26:37.775657[Thread 0x00007fd68a3fc6c0]:Unable to open the fileC:\Users\me\Downloads\modular-gridfinity-drawer-2x5.stl
+[error]	2025-04-07 19:26:37.775670[Thread 0x00007fd688bf66c0]:Unable to open the file/home/me/Downloads/NogkaKolpakaFBG6.stl
+[error]	2025-04-07 19:26:37.775699[Thread 0x00007fd68abfe6c0]:Unable to open the file/home/me/Downloads/LiftGhost6.3mf
+[error]	2025-04-07 19:26:37.775710[Thread 0x00007fd6897f96c0]:Unable to open the fileC:\Users\me\Downloads\Caliper.3mf
+[error]	2025-04-07 19:26:37.775752[Thread 0x00007fd6893f86c0]:Unable to open the fileC:\Users\me\Downloads\organizer.stl
+[error]	2025-04-07 19:26:37.775764[Thread 0x00007fd689ffb6c0]:Unable to open the fileC:\Users\me\Downloads\washbottle_holder_2x2.stl
+[error]	2025-04-07 19:26:37.775772[Thread 0x00007fd6887f56c0]:Unable to open the fileC:\Users\me\Desktop\Cube.3mf
+[error]	2025-04-07 19:26:37.775819[Thread 0x00007fd689bfa6c0]:Unable to open the file/home/me/Downloads/obduv_VULKANO.stl
+[error]	2025-04-07 19:26:37.775848[Thread 0x00007fd688ff76c0]:Unable to open the fileC:\Users\me\Downloads\casing.3mf
+[error]	2025-04-07 19:26:37.775881[Thread 0x00007fd68a7fd6c0]:Unable to open the fileC:\Users\me\Downloads\modular-gridfinity-drawer-2x5 (1).stl
+[warning]	2025-04-07 19:26:38.092622[Thread 0x00007fd7362152c0]:19:26:38: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-07 19:26:38.094055[Thread 0x00007fd7362152c0]:19:26:38: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-07 19:26:38.095381[Thread 0x00007fd7362152c0]:19:26:38: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-07 19:26:38.104124[Thread 0x00007fd7362152c0]:19:26:38: Warning: Error running JavaScript: file:///tmp/.mount_OrcaSliBstbu/resources/web/model/index.html?lang=en_US:1:9: ReferenceError: Can't find variable: __wxOut0
+[error]	2025-04-07 19:26:39.687262[Thread 0x00007fd7362152c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-04-07 19:26:39.703672[Thread 0x00007fd7362152c0]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-04-07 19:26:39.706820[Thread 0x00007fd627fff6c0]:Error getting: `check_new_version_sf`: HTTP 0, curl:Couldn't resolve host name:
+Could not resolve host: api.github.com
+[Error 6]
+[error]	2025-04-07 19:26:39.707186[Thread 0x00007fd630d066c0]:[Orca Updater]: status=0, error=curl:Couldn't resolve host name:
+Could not resolve host: api.bambulab.com
+[Error 6], body=
+[error]	2025-04-07 19:44:38.145058[Thread 0x00007fd7362152c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-04-07 19:44:46.273304[Thread 0x00007fd689ffb6c0]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-07 19:45:31.394153[Thread 0x00007fd7197fe6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":64.000000,"clearance_height_to_lid":80.000000,"clearance_radius":55.000000,"printable_height":200.000000,
+[error]	2025-04-07 19:45:37.548312[Thread 0x00007fd7362152c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-07 19:45:37.746379[Thread 0x00007fd7362152c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-07 19:47:45.707305[Thread 0x00007fd7362152c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-07 20:21:53.696860[Thread 0x00007fd7362152c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-07 20:22:18.359475[Thread 0x00007fd7362152c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-04-07 21:10:01.345178[Thread 0x00007fd68abfe6c0]:Influence area could not be increased! Data about the Influence area: Radius: 1346455 at layer: 201 NextTarget: 201 Distance to top: 98 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0x7fd6517f45b8: Radius: 1346455 at layer: 202 NextTarget: 202 Distance to top: 97 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[error]	2025-04-07 21:37:11.604801[Thread 0x00007fd7362152c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-07 21:37:11.789499[Thread 0x00007fd7362152c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-04-07 21:49:12.612011[Thread 0x00007fd7197fe6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":64.000000,"clearance_height_to_lid":80.000000,"clearance_radius":55.000000,"printable_height":200.000000,
+[warning]	2025-04-07 21:49:12.620754[Thread 0x00007fd7362152c0]:postprocess_bed_index_for_current_plate: can not be arranged inside plate!
+[error]	2025-04-07 21:55:38.619362[Thread 0x00007fd7362152c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-04-07 22:01:02.301613[Thread 0x00007fd7197fe6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":64.000000,"clearance_height_to_lid":80.000000,"clearance_radius":55.000000,"printable_height":200.000000,
