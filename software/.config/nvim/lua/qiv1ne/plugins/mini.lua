@@ -16,12 +16,12 @@ return { -- Collection of various small independent plugins/modules
 		-- - sr)'  - [S]urround [R]eplace [)] [']
 		require("mini.surround").setup()
 
-		require("mini.pairs").setup()
+		-- require("mini.pairs").setup()
 
 		require("mini.files").setup()
 		vim.keymap.set("n", "<C-t>", ":lua  MiniFiles.open()<CR>", { desc = "Open File [t]ree" })
 
-		require("mini.git").setup()
+		-- require("mini.git").setup()
 
 		require("mini.notify").setup()
 
