@@ -1,0 +1,21 @@
+[error]	2025-05-01 09:10:00.751675[Thread 0x00007f4e1a5822c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-01 09:10:00.760695[Thread 0x00007f4d6afff6c0]:Unable to open the file/home/me/.config/OrcaSlicer/log/LiftGhost6.3mf
+[error]	2025-05-01 09:10:00.760712[Thread 0x00007f4d69bfa6c0]:Unable to open the fileC:\Users\me\Downloads\Caliper.3mf
+[error]	2025-05-01 09:10:00.760728[Thread 0x00007f4d693f86c0]:Unable to open the file/home/me/Downloads/LiftGhost6.3mf
+[error]	2025-05-01 09:10:00.760713[Thread 0x00007f4d6a3fc6c0]:Unable to open the fileC:\Users\me\Downloads\Case+with+integrated+log+tray+for+QMX_QCX+mini+TRX\casing.3mf
+[error]	2025-05-01 09:10:00.760737[Thread 0x00007f4d847f86c0]:Unable to open the file/home/me/Downloads/obduv_VULKANO.stl
+[error]	2025-05-01 09:10:00.760748[Thread 0x00007f4d69bfa6c0]:Unable to open the file/home/me/Downloads/NogkaKolpakaFBG6.stl
+[error]	2025-05-01 09:10:00.760751[Thread 0x00007f4d693f86c0]:Unable to open the file/home/me/Downloads/LiftGhost6.stl
+[error]	2025-05-01 09:10:00.760748[Thread 0x00007f4d68ff76c0]:Unable to open the file/home/me/.config/OrcaSlicer/log/petli.3mf
+[error]	2025-05-01 09:10:00.760754[Thread 0x00007f4d6a3fc6c0]:Unable to open the fileC:\Users\me\Downloads\modular-gridfinity-drawer-2x5 (1).stl
+[error]	2025-05-01 09:10:00.760770[Thread 0x00007f4d6a7fd6c0]:Unable to open the fileC:\Users\me\Downloads\Caliper.stl
+[error]	2025-05-01 09:10:00.760868[Thread 0x00007f4d697f96c0]:Unable to open the fileC:\Users\me\Downloads\washbottle_holder_2x2.stl
+[error]	2025-05-01 09:10:00.760869[Thread 0x00007f4d693f86c0]:Unable to open the fileC:\Users\me\Downloads\stand.stl
+[error]	2025-05-01 09:10:00.760882[Thread 0x00007f4d6abfe6c0]:Unable to open the fileC:\Users\me\Downloads\stand.3mf
+[error]	2025-05-01 09:10:00.760928[Thread 0x00007f4d69ffb6c0]:Unable to open the file/home/me/.config/OrcaSlicer/log/_стола.3mf
+[error]	2025-05-01 09:10:00.760939[Thread 0x00007f4d68bf66c0]:Unable to open the fileC:\Users\me\Downloads\EW 2.0.stl
+[warning]	2025-05-01 09:10:01.021289[Thread 0x00007f4e1a5822c0]:09:10:01: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-05-01 09:10:01.022573[Thread 0x00007f4e1a5822c0]:09:10:01: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-05-01 09:10:01.024393[Thread 0x00007f4e1a5822c0]:09:10:01: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-05-01 09:10:01.026004[Thread 0x00007f4e1a5822c0]:09:10:01: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-05-01 09:10:02.565185[Thread 0x00007f4e1a5822c0]:calc_exclude_triangles:Unable to create exclude triangles

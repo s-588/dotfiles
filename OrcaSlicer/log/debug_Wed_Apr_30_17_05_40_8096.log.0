@@ -1,0 +1,25 @@
+[error]	2025-04-30 17:05:42.282592[Thread 0x00007f344e9082c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-30 17:05:42.290312[Thread 0x00007f33b87f86c0]:Unable to open the file/home/me/Downloads/obduv_VULKANO.stl
+[error]	2025-04-30 17:05:42.290324[Thread 0x00007f339cff86c0]:Unable to open the fileC:\Users\me\Downloads\washbottle_holder_2x2.stl
+[error]	2025-04-30 17:05:42.290338[Thread 0x00007f339dbfb6c0]:Unable to open the fileC:\Users\me\Downloads\Caliper.3mf
+[error]	2025-04-30 17:05:42.290363[Thread 0x00007f33b87f86c0]:Unable to open the file/home/me/Downloads/LiftGhost6.3mf
+[error]	2025-04-30 17:05:42.290369[Thread 0x00007f339e3fd6c0]:Unable to open the fileC:\Users\me\Downloads\Case+with+integrated+log+tray+for+QMX_QCX+mini+TRX\casing.3mf
+[error]	2025-04-30 17:05:42.290369[Thread 0x00007f339dbfb6c0]:Unable to open the file/home/me/Downloads/NogkaKolpakaFBG6.stl
+[error]	2025-04-30 17:05:42.290386[Thread 0x00007f339dbfb6c0]:Unable to open the file/home/me/.config/OrcaSlicer/log/petli.3mf
+[error]	2025-04-30 17:05:42.290386[Thread 0x00007f339d3f96c0]:Unable to open the fileC:\Users\me\Downloads\modular-gridfinity-drawer-2x5 (1).stl
+[error]	2025-04-30 17:05:42.290387[Thread 0x00007f339e3fd6c0]:Unable to open the file/home/me/Downloads/LiftGhost6.stl
+[error]	2025-04-30 17:05:42.290403[Thread 0x00007f339e7fe6c0]:Unable to open the fileC:\Users\me\Downloads\stand.3mf
+[error]	2025-04-30 17:05:42.290413[Thread 0x00007f339d7fa6c0]:Unable to open the fileC:\Users\me\Downloads\EW 2.0.stl
+[error]	2025-04-30 17:05:42.290440[Thread 0x00007f339dffc6c0]:Unable to open the fileC:\Users\me\Downloads\Caliper.stl
+[error]	2025-04-30 17:05:42.290452[Thread 0x00007f339c7f66c0]:Unable to open the fileC:\Users\me\Downloads\stand.stl
+[error]	2025-04-30 17:05:42.290490[Thread 0x00007f339cbf76c0]:Unable to open the file/home/me/.config/OrcaSlicer/log/LiftGhost6.3mf
+[warning]	2025-04-30 17:05:42.547695[Thread 0x00007f344e9082c0]:17:05:42: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-30 17:05:42.549426[Thread 0x00007f344e9082c0]:17:05:42: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-30 17:05:42.550793[Thread 0x00007f344e9082c0]:17:05:42: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-30 17:05:42.552018[Thread 0x00007f344e9082c0]:17:05:42: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-04-30 17:05:44.126273[Thread 0x00007f344e9082c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-04-30 17:05:44.142860[Thread 0x00007f344e9082c0]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-04-30 17:05:50.254114[Thread 0x00007f344e9082c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-30 17:05:50.629318[Thread 0x00007f344e9082c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-30 18:07:57.336781[Thread 0x00007f3357fff6c0]:OctoPrint: Error uploading file: , HTTP 403, body: `{"error": {"code": 403, "message": "Forbidden", "traceback": "Traceback (most recent call last):\n\n  File \"/home/me/moonraker/moonraker/components/file_manager/file_manager.py\", line 903, in _finish_gcode_upload\n    can_start = self._handle_operation_check(check_path)\n                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n  File \"/home/me/moonraker/moonraker/components/file_manager/file_manager.py\", line 563, in _handle_operation_check\n    raise self.server.error(\"File currently in use\", 403)\n\nmoonraker.utils.exceptions.ServerError: File currently in use\n\n\nDuring handling of the above exception, another exception occurred:\n\n\nTraceback (most recent call last):\n\n  File \"/home/me/moonraker/moonraker/components/application.py\", line 1017, in post\n    result = await self.file_manager.finalize_upload(form_args)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n  File \"/home/me/moonraker/moonraker/components/file_manager/file_manager.py\", line 833, in finalize_upload\n    result = await self._finish_gcode_upload(upload_info)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n  File \"/home/me/moonraker/moonraker/components/file_manager/file_manager.py\", line 906, in _finish_gcode_upload\n    raise self.server.error(\n\nmoonraker.utils.exceptions.ServerError: File is loaded, upload not permitted\n\n\nDuring handling of the above exception, another exception occurred:\n\n\nTraceback (most recent call last):\n\n  File \"/home/me/moonraker-env/lib/python3.11/site-packages/tornado/web.py\", line 1790, in _execute\n    result = await result\n             ^^^^^^^^^^^^\n\n  File \"/home/me/moonraker/moonraker/components/application.py\", line 1019, in post\n    raise tornado.web.HTTPError(\n\ntornado.web.HTTPError: HTTP 403: Forbidden (File is loaded, upload not permitted)\n"}}`
+[error]	2025-04-30 23:00:05.028200[Thread 0x00007f344e9082c0]:calc_exclude_triangles:Unable to create exclude triangles

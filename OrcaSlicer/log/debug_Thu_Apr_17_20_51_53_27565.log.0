@@ -1,0 +1,27 @@
+[error]	2025-04-17 20:52:03.432414[Thread 0x00007fdf2ec3b2c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-17 20:52:03.516212[Thread 0x00007fdea05fd6c0]:Unable to open the file/home/me/Downloads/obduv_VULKANO.stl
+[error]	2025-04-17 20:52:03.516312[Thread 0x00007fde987ff6c0]:Unable to open the fileC:\Users\me\Downloads\stand.3mf
+[error]	2025-04-17 20:52:03.516412[Thread 0x00007fde867fc6c0]:Unable to open the file/home/me/Downloads/LiftGhost6.3mf
+[error]	2025-04-17 20:52:03.516556[Thread 0x00007fdea05fd6c0]:Unable to open the fileC:\Users\me\Downloads\Caliper.3mf
+[error]	2025-04-17 20:52:03.516586[Thread 0x00007fde987ff6c0]:Unable to open the fileC:\Users\me\Downloads\Case+with+integrated+log+tray+for+QMX_QCX+mini+TRX\casing.3mf
+[error]	2025-04-17 20:52:03.516562[Thread 0x00007fde863fb6c0]:Unable to open the fileC:\Users\me\Downloads\washbottle_holder_2x2.stl
+[error]	2025-04-17 20:52:03.516738[Thread 0x00007fdea05fd6c0]:Unable to open the fileC:\Users\me\Downloads\Caliper.stl
+[error]	2025-04-17 20:52:03.516746[Thread 0x00007fde86bfd6c0]:Unable to open the fileC:\Users\me\Downloads\stand.stl
+[error]	2025-04-17 20:52:03.516774[Thread 0x00007fde867fc6c0]:Unable to open the file/home/me/Downloads/NogkaKolpakaFBG6.stl
+[error]	2025-04-17 20:52:03.516830[Thread 0x00007fde863fb6c0]:Unable to open the file/home/me/Downloads/LiftGhost6.stl
+[error]	2025-04-17 20:52:03.516741[Thread 0x00007fde987ff6c0]:Unable to open the fileC:\Users\me\Downloads\modular-gridfinity-drawer-2x5 (1).stl
+[error]	2025-04-17 20:52:03.517264[Thread 0x00007fde84ff66c0]:Unable to open the fileC:\Users\me\Downloads\EW 2.0.stl
+[warning]	2025-04-17 20:52:06.259900[Thread 0x00007fdf2ec3b2c0]:20:52:06: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-17 20:52:06.439116[Thread 0x00007fdf2ec3b2c0]:20:52:06: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-17 20:52:06.456956[Thread 0x00007fdf2ec3b2c0]:20:52:06: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-17 20:52:07.029879[Thread 0x00007fdf2ec3b2c0]:20:52:07: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-04-17 20:52:23.782130[Thread 0x00007fdf2ec3b2c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-04-17 20:52:23.918584[Thread 0x00007fdf2ec3b2c0]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-04-17 20:52:23.943085[Thread 0x00007fde19a636c0]:Error getting: `check_new_version_sf`: HTTP 0, curl:Couldn't resolve host name:
+Could not resolve host: api.github.com
+[Error 6]
+[error]	2025-04-17 20:52:23.946030[Thread 0x00007fde1a2646c0]:[Orca Updater]: status=0, error=curl:Couldn't resolve host name:
+Could not resolve host: api.bambulab.com
+[Error 6], body=
+[error]	2025-04-17 20:52:40.573354[Thread 0x00007fdf2ec3b2c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-17 20:52:44.750936[Thread 0x00007fdf2ec3b2c0]:calc_exclude_triangles:Unable to create exclude triangles

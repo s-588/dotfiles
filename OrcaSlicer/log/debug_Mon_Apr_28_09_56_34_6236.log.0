@@ -1,0 +1,31 @@
+[error]	2025-04-28 09:56:35.414686[Thread 0x00007fce344592c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-28 09:56:35.423319[Thread 0x00007fcd81ff86c0]:Unable to open the file/home/me/Downloads/NogkaKolpakaFBG6.stl
+[error]	2025-04-28 09:56:35.423333[Thread 0x00007fcd827fa6c0]:Unable to open the file/home/me/Downloads/LiftGhost6.3mf
+[error]	2025-04-28 09:56:35.423348[Thread 0x00007fcd81ff86c0]:Unable to open the file/home/me/Downloads/LiftGhost6.stl
+[error]	2025-04-28 09:56:35.423344[Thread 0x00007fcda07fc6c0]:Unable to open the file/home/me/Downloads/obduv_VULKANO.stl
+[error]	2025-04-28 09:56:35.423355[Thread 0x00007fcd833fd6c0]:Unable to open the fileC:\Users\me\Downloads\Caliper.3mf
+[error]	2025-04-28 09:56:35.423357[Thread 0x00007fcd823f96c0]:Unable to open the fileC:\Users\me\Downloads\stand.stl
+[error]	2025-04-28 09:56:35.423364[Thread 0x00007fcda07fc6c0]:Unable to open the fileC:\Users\me\Downloads\Caliper.stl
+[error]	2025-04-28 09:56:35.423362[Thread 0x00007fcd827fa6c0]:Unable to open the fileC:\Users\me\Downloads\EW 2.0.stl
+[error]	2025-04-28 09:56:35.423380[Thread 0x00007fcd833fd6c0]:Unable to open the fileC:\Users\me\Downloads\modular-gridfinity-drawer-2x5 (1).stl
+[error]	2025-04-28 09:56:35.423379[Thread 0x00007fcd987fe6c0]:Unable to open the file/home/me/.config/OrcaSlicer/log/LiftGhost6.3mf
+[error]	2025-04-28 09:56:35.423382[Thread 0x00007fcda07fc6c0]:Unable to open the file/home/me/.config/OrcaSlicer/log/petli.3mf
+[error]	2025-04-28 09:56:35.423413[Thread 0x00007fcd837fe6c0]:Unable to open the fileC:\Users\me\Downloads\stand.3mf
+[error]	2025-04-28 09:56:35.423436[Thread 0x00007fcd81bf76c0]:Unable to open the fileC:\Users\me\Downloads\Case+with+integrated+log+tray+for+QMX_QCX+mini+TRX\casing.3mf
+[error]	2025-04-28 09:56:35.423448[Thread 0x00007fcd817f66c0]:Unable to open the fileC:\Users\me\Downloads\washbottle_holder_2x2.stl
+[warning]	2025-04-28 09:56:35.608369[Thread 0x00007fce344592c0]:09:56:35: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-28 09:56:35.610226[Thread 0x00007fce344592c0]:09:56:35: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-28 09:56:35.611445[Thread 0x00007fce344592c0]:09:56:35: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-28 09:56:35.620219[Thread 0x00007fce344592c0]:09:56:35: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-04-28 09:56:37.150008[Thread 0x00007fce344592c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-04-28 09:56:37.173999[Thread 0x00007fce344592c0]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-04-28 09:56:51.572036[Thread 0x00007fce344592c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-28 09:56:51.927410[Thread 0x00007fce344592c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-28 09:57:14.203891[Thread 0x00007fce344592c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-28 09:57:36.641816[Thread 0x00007fce344592c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-28 09:57:36.781141[Thread 0x00007fce344592c0]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-04-28 09:57:41.267067[Thread 0x00007fcdbd13e6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":64.000000,"clearance_height_to_lid":80.000000,"clearance_radius":55.000000,"printable_height":200.000000,
+[error]	2025-04-28 09:57:45.079092[Thread 0x00007fce344592c0]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-04-28 09:57:56.583118[Thread 0x00007fcdbd13e6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":64.000000,"clearance_height_to_lid":80.000000,"clearance_radius":55.000000,"printable_height":200.000000,
+[error]	2025-04-28 09:57:57.717823[Thread 0x00007fce344592c0]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-04-28 09:57:59.123805[Thread 0x00007fcdbd13e6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":64.000000,"clearance_height_to_lid":80.000000,"clearance_radius":55.000000,"printable_height":200.000000,

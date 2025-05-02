@@ -1,0 +1,85 @@
+{
+    "close_fan_the_first_x_layers": [
+        "1"
+    ],
+    "cool_plate_temp": [
+        "110"
+    ],
+    "cool_plate_temp_initial_layer": [
+        "110"
+    ],
+    "eng_plate_temp": [
+        "110"
+    ],
+    "eng_plate_temp_initial_layer": [
+        "110"
+    ],
+    "fan_max_speed": [
+        "40"
+    ],
+    "filament_max_volumetric_speed": [
+        "8"
+    ],
+    "filament_retraction_length": [
+        "0.72"
+    ],
+    "filament_settings_id": [
+        "White ABS"
+    ],
+    "filament_z_hop": [
+        "0.5"
+    ],
+    "from": "User",
+    "full_fan_speed_layer": [
+        "3"
+    ],
+    "hot_plate_temp": [
+        "110"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "110"
+    ],
+    "inherits": "FlyingBear Generic ABS",
+    "is_custom_defined": "0",
+    "name": "White ABS",
+    "nozzle_temperature": [
+        "280"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "280"
+    ],
+    "nozzle_temperature_range_high": [
+        "285"
+    ],
+    "overhang_fan_speed": [
+        "100"
+    ],
+    "pressure_advance": [
+        "0.033"
+    ],
+    "reduce_fan_stop_start_freq": [
+        "0"
+    ],
+    "slow_down_layer_time": [
+        "10"
+    ],
+    "supertack_plate_temp": [
+        "110"
+    ],
+    "supertack_plate_temp_initial_layer": [
+        "110"
+    ],
+    "textured_cool_plate_temp": [
+        "110"
+    ],
+    "textured_cool_plate_temp_initial_layer": [
+        "110"
+    ],
+    "textured_plate_temp": [
+        "110"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "110"
+    ],
+    "version": "2.1.1.0"
+}

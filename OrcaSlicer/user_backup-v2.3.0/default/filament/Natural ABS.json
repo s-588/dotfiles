@@ -1,0 +1,37 @@
+{
+    "fan_max_speed": [
+        "0"
+    ],
+    "fan_min_speed": [
+        "0"
+    ],
+    "filament_retraction_length": [
+        "nil"
+    ],
+    "filament_settings_id": [
+        "Natural ABS"
+    ],
+    "from": "User",
+    "inherits": "FlyingBear Generic ABS",
+    "is_custom_defined": "0",
+    "name": "Natural ABS",
+    "nozzle_temperature": [
+        "280"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "280"
+    ],
+    "nozzle_temperature_range_high": [
+        "285"
+    ],
+    "overhang_fan_speed": [
+        "0"
+    ],
+    "pressure_advance": [
+        "0.045"
+    ],
+    "reduce_fan_stop_start_freq": [
+        "0"
+    ],
+    "version": "2.1.1.0"
+}

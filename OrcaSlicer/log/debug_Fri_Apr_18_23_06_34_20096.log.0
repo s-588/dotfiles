@@ -1,0 +1,18 @@
+[error]	2025-04-18 23:06:36.422931[Thread 0x00007ffa792732c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-18 23:06:36.432773[Thread 0x00007ff9d17ff6c0]:Unable to open the file/home/me/Downloads/obduv_VULKANO.stl
+[error]	2025-04-18 23:06:36.432807[Thread 0x00007ff9c3fff6c0]:Unable to open the fileC:\Users\me\Downloads\stand.3mf
+[error]	2025-04-18 23:06:36.432816[Thread 0x00007ff9c37fd6c0]:Unable to open the fileC:\Users\me\Downloads\washbottle_holder_2x2.stl
+[error]	2025-04-18 23:06:36.432829[Thread 0x00007ff9c3fff6c0]:Unable to open the fileC:\Users\me\Downloads\Caliper.stl
+[error]	2025-04-18 23:06:36.432840[Thread 0x00007ff9c37fd6c0]:Unable to open the fileC:\Users\me\Downloads\EW 2.0.stl
+[error]	2025-04-18 23:06:36.432840[Thread 0x00007ff9c33fc6c0]:Unable to open the file/home/me/Downloads/LiftGhost6.3mf
+[error]	2025-04-18 23:06:36.432852[Thread 0x00007ff9d13fe6c0]:Unable to open the fileC:\Users\me\Downloads\Caliper.3mf
+[error]	2025-04-18 23:06:36.432854[Thread 0x00007ff9c3fff6c0]:Unable to open the fileC:\Users\me\Downloads\modular-gridfinity-drawer-2x5 (1).stl
+[error]	2025-04-18 23:06:36.432860[Thread 0x00007ff9c33fc6c0]:Unable to open the file/home/me/Downloads/NogkaKolpakaFBG6.stl
+[error]	2025-04-18 23:06:36.432873[Thread 0x00007ff9d13fe6c0]:Unable to open the file/home/me/Downloads/LiftGhost6.stl
+[error]	2025-04-18 23:06:36.432868[Thread 0x00007ff9d0bfc6c0]:Unable to open the fileC:\Users\me\Downloads\Case+with+integrated+log+tray+for+QMX_QCX+mini+TRX\casing.3mf
+[error]	2025-04-18 23:06:36.432878[Thread 0x00007ff9c2ffb6c0]:Unable to open the fileC:\Users\me\Downloads\stand.stl
+[warning]	2025-04-18 23:06:36.745890[Thread 0x00007ffa792732c0]:23:06:36: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-18 23:06:36.747935[Thread 0x00007ffa792732c0]:23:06:36: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-18 23:06:36.749948[Thread 0x00007ffa792732c0]:23:06:36: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-18 23:06:36.751771[Thread 0x00007ffa792732c0]:23:06:36: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-04-18 23:06:38.394744[Thread 0x00007ffa792732c0]:calc_exclude_triangles:Unable to create exclude triangles

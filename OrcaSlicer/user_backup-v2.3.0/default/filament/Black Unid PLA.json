@@ -1,0 +1,31 @@
+{
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_max_volumetric_speed": [
+        "20"
+    ],
+    "filament_retraction_length": [
+        "0.3"
+    ],
+    "filament_settings_id": [
+        "Black Unid PLA"
+    ],
+    "from": "User",
+    "inherits": "FlyingBear Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Black Unid PLA",
+    "nozzle_temperature": [
+        "240"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "240"
+    ],
+    "pressure_advance": [
+        "0.038"
+    ],
+    "slow_down_layer_time": [
+        "12"
+    ],
+    "version": "2.1.1.0"
+}

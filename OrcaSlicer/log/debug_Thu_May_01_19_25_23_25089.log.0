@@ -1,0 +1,23 @@
+[error]	2025-05-01 19:25:25.024847[Thread 0x00007fe147ec62c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-01 19:25:25.035909[Thread 0x00007fe08ebfa6c0]:Unable to open the file/home/me/.config/OrcaSlicer/log/_стола.3mf
+[error]	2025-05-01 19:25:25.035923[Thread 0x00007fe0a4fff6c0]:Unable to open the file/home/me/Downloads/obduv_VULKANO.stl
+[error]	2025-05-01 19:25:25.035975[Thread 0x00007fe08ebfa6c0]:Unable to open the file/home/me/Downloads/NogkaKolpakaFBG6.stl
+[error]	2025-05-01 19:25:25.035981[Thread 0x00007fe08ebfa6c0]:Unable to open the file/home/me/Downloads/LiftGhost6.stl
+[error]	2025-05-01 19:25:25.035976[Thread 0x00007fe0a4bfe6c0]:Unable to open the file/home/me/.config/OrcaSlicer/log/LiftGhost6.3mf
+[error]	2025-05-01 19:25:25.035977[Thread 0x00007fe0a4fff6c0]:Unable to open the fileC:\Users\me\Downloads\Caliper.3mf
+[error]	2025-05-01 19:25:25.035990[Thread 0x00007fe08f7fd6c0]:Unable to open the fileC:\Users\me\Downloads\washbottle_holder_2x2.stl
+[error]	2025-05-01 19:25:25.035995[Thread 0x00007fe08e3f86c0]:Unable to open the fileC:\Users\me\Downloads\modular-gridfinity-drawer-2x5 (1).stl
+[error]	2025-05-01 19:25:25.036003[Thread 0x00007fe0a4bfe6c0]:Unable to open the fileC:\Users\me\Downloads\Caliper.stl
+[error]	2025-05-01 19:25:25.036008[Thread 0x00007fe08f7fd6c0]:Unable to open the fileC:\Users\me\Downloads\stand.stl
+[error]	2025-05-01 19:25:25.036035[Thread 0x00007fe0a47fd6c0]:Unable to open the file/home/me/.config/OrcaSlicer/log/petli.3mf
+[error]	2025-05-01 19:25:25.036048[Thread 0x00007fe08e7f96c0]:Unable to open the fileC:\Users\me\Downloads\EW 2.0.stl
+[error]	2025-05-01 19:25:25.036057[Thread 0x00007fe08effb6c0]:Unable to open the file/home/me/Downloads/LiftGhost6.3mf
+[error]	2025-05-01 19:25:25.036067[Thread 0x00007fe08fbfe6c0]:Unable to open the fileC:\Users\me\Downloads\Case+with+integrated+log+tray+for+QMX_QCX+mini+TRX\casing.3mf
+[error]	2025-05-01 19:25:25.036076[Thread 0x00007fe08f3fc6c0]:Unable to open the fileC:\Users\me\Downloads\stand.3mf
+[warning]	2025-05-01 19:25:25.243877[Thread 0x00007fe147ec62c0]:19:25:25: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-05-01 19:25:25.245390[Thread 0x00007fe147ec62c0]:19:25:25: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-05-01 19:25:25.246734[Thread 0x00007fe147ec62c0]:19:25:25: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-05-01 19:25:25.248623[Thread 0x00007fe147ec62c0]:19:25:25: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-05-01 19:25:26.842392[Thread 0x00007fe147ec62c0]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-05-01 19:25:30.933029[Thread 0x00007fe147ec62c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-01 19:25:31.294871[Thread 0x00007fe147ec62c0]:calc_exclude_triangles:Unable to create exclude triangles

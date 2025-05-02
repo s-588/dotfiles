@@ -1,0 +1,22 @@
+[error]	2025-04-19 13:48:10.837825[Thread 0x00007fcedb74d2c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-19 13:48:10.846395[Thread 0x00007fce407ff6c0]:Unable to open the file/home/me/Downloads/obduv_VULKANO.stl
+[error]	2025-04-19 13:48:10.846408[Thread 0x00007fce2a7fb6c0]:Unable to open the fileC:\Users\me\Downloads\stand.3mf
+[error]	2025-04-19 13:48:10.846417[Thread 0x00007fce297f76c0]:Unable to open the fileC:\Users\me\Downloads\washbottle_holder_2x2.stl
+[error]	2025-04-19 13:48:10.846434[Thread 0x00007fce407ff6c0]:Unable to open the fileC:\Users\me\Downloads\Caliper.3mf
+[error]	2025-04-19 13:48:10.846445[Thread 0x00007fce28ff56c0]:Unable to open the file/home/me/Downloads/LiftGhost6.stl
+[error]	2025-04-19 13:48:10.846446[Thread 0x00007fce293f66c0]:Unable to open the fileC:\Users\me\Downloads\modular-gridfinity-drawer-2x5 (1).stl
+[error]	2025-04-19 13:48:10.846471[Thread 0x00007fce28ff56c0]:Unable to open the fileC:\Users\me\Downloads\Caliper.stl
+[error]	2025-04-19 13:48:10.846446[Thread 0x00007fce297f76c0]:Unable to open the fileC:\Users\me\Downloads\Case+with+integrated+log+tray+for+QMX_QCX+mini+TRX\casing.3mf
+[error]	2025-04-19 13:48:10.846574[Thread 0x00007fce2affd6c0]:Unable to open the file/home/me/Downloads/LiftGhost6.3mf
+[error]	2025-04-19 13:48:10.846584[Thread 0x00007fce2a3fa6c0]:Unable to open the file/home/me/Downloads/NogkaKolpakaFBG6.stl
+[error]	2025-04-19 13:48:10.846592[Thread 0x00007fce29bf86c0]:Unable to open the fileC:\Users\me\Downloads\stand.stl
+[error]	2025-04-19 13:48:10.846601[Thread 0x00007fce28bf46c0]:Unable to open the fileC:\Users\me\Downloads\EW 2.0.stl
+[warning]	2025-04-19 13:48:11.131748[Thread 0x00007fcedb74d2c0]:13:48:11: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-19 13:48:11.133857[Thread 0x00007fcedb74d2c0]:13:48:11: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-19 13:48:11.135521[Thread 0x00007fcedb74d2c0]:13:48:11: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-19 13:48:11.143502[Thread 0x00007fcedb74d2c0]:13:48:11: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-04-19 13:48:12.708688[Thread 0x00007fcedb74d2c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-04-19 13:48:12.728889[Thread 0x00007fcedb74d2c0]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-04-19 13:48:35.470420[Thread 0x00007fcedb74d2c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-19 13:48:35.824580[Thread 0x00007fcedb74d2c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-04-19 13:48:43.502694[Thread 0x00007fce648c76c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":64.000000,"clearance_height_to_lid":80.000000,"clearance_radius":55.000000,"printable_height":200.000000,

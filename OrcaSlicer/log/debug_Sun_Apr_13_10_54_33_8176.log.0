@@ -1,0 +1,45 @@
+[error]	2025-04-13 10:54:34.855109[Thread 0x00007fca92a5d2c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-13 10:54:34.863522[Thread 0x00007fc9f87f86c0]:Unable to open the file/home/me/Downloads/obduv_VULKANO.stl
+[error]	2025-04-13 10:54:34.863541[Thread 0x00007fc9f1ffd6c0]:Unable to open the fileC:\Users\me\Downloads\stand.3mf
+[error]	2025-04-13 10:54:34.863594[Thread 0x00007fc9f17fb6c0]:Unable to open the file/home/me/Downloads/LiftGhost6.3mf
+[error]	2025-04-13 10:54:34.863597[Thread 0x00007fc9f87f86c0]:Unable to open the fileC:\Users\me\Downloads\Caliper.3mf
+[error]	2025-04-13 10:54:34.863596[Thread 0x00007fc9f1ffd6c0]:Unable to open the fileC:\Users\me\Downloads\stand.stl
+[error]	2025-04-13 10:54:34.863622[Thread 0x00007fc9f17fb6c0]:Unable to open the file/home/me/Downloads/LiftGhost6.stl
+[error]	2025-04-13 10:54:34.863617[Thread 0x00007fc9f0bf86c0]:Unable to open the file/home/me/Downloads/NogkaKolpakaFBG6.stl
+[error]	2025-04-13 10:54:34.863635[Thread 0x00007fc9cbbfe6c0]:Unable to open the fileC:\Users\me\Downloads\Caliper.stl
+[error]	2025-04-13 10:54:34.863636[Thread 0x00007fc9f87f86c0]:Unable to open the fileC:\Users\me\Downloads\EW 2.0.stl
+[error]	2025-04-13 10:54:34.863637[Thread 0x00007fc9f1ffd6c0]:Unable to open the fileC:\Users\me\Downloads\washbottle_holder_2x2.stl
+[error]	2025-04-13 10:54:34.863652[Thread 0x00007fc9cb7fd6c0]:Unable to open the fileC:\Users\me\Downloads\Case+with+integrated+log+tray+for+QMX_QCX+mini+TRX\casing.3mf
+[error]	2025-04-13 10:54:34.863655[Thread 0x00007fc9f17fb6c0]:Unable to open the fileC:\Users\me\Downloads\modular-gridfinity-drawer-2x5 (1).stl
+[warning]	2025-04-13 10:54:35.136367[Thread 0x00007fca92a5d2c0]:10:54:35: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-13 10:54:35.137960[Thread 0x00007fca92a5d2c0]:10:54:35: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-13 10:54:35.139779[Thread 0x00007fca92a5d2c0]:10:54:35: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-13 10:54:35.141004[Thread 0x00007fca92a5d2c0]:10:54:35: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-04-13 10:54:36.722496[Thread 0x00007fca92a5d2c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-04-13 10:54:36.739956[Thread 0x00007fca92a5d2c0]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-04-13 10:54:50.059248[Thread 0x00007fca92a5d2c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-13 10:54:50.432931[Thread 0x00007fca92a5d2c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-04-13 13:39:15.546912[Thread 0x00007fca095ff6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":64.000000,"clearance_height_to_lid":80.000000,"clearance_radius":55.000000,"printable_height":200.000000,
+[warning]	2025-04-13 13:39:30.819084[Thread 0x00007fca095ff6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":64.000000,"clearance_height_to_lid":80.000000,"clearance_radius":55.000000,"printable_height":200.000000,
+[warning]	2025-04-13 13:39:42.852068[Thread 0x00007fca095ff6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":64.000000,"clearance_height_to_lid":80.000000,"clearance_radius":55.000000,"printable_height":200.000000,
+[warning]	2025-04-13 13:40:52.436684[Thread 0x00007fca095ff6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":64.000000,"clearance_height_to_lid":80.000000,"clearance_radius":55.000000,"printable_height":200.000000,
+[warning]	2025-04-13 13:40:55.054545[Thread 0x00007fca095ff6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":64.000000,"clearance_height_to_lid":80.000000,"clearance_radius":55.000000,"printable_height":200.000000,
+[error]	2025-04-13 13:43:13.168345[Thread 0x00007fc997fff6c0]:gcode path conflicts found between απτ¬á_90391c67-074d-4805-b30d-35e46cb78198.stl and απτ¬á_90391c67-074d-4805-b30d-35e46cb78198.stl
+[error]	2025-04-13 14:28:46.487402[Thread 0x00007fc997fff6c0]:Failed to apply the print statistics to the export file name: Parsing error at line 1: Non-ASCII7 characters are only allowed inside text blocks and string literals, not inside code blocks.
+απτ¬a_90391c67-074d-4805-b30d-35e46cb78198_PLA_3h27m
+^
+[error]	2025-04-13 15:50:19.066515[Thread 0x00007fca92a5d2c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-04-13 15:50:28.612983[Thread 0x00007fca095ff6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":64.000000,"clearance_height_to_lid":80.000000,"clearance_radius":55.000000,"printable_height":200.000000,
+[error]	2025-04-13 15:53:04.179221[Thread 0x00007fc997fff6c0]:Failed to apply the print statistics to the export file name: Parsing error at line 1: Non-ASCII7 characters are only allowed inside text blocks and string literals, not inside code blocks.
+απτ¬a_90391c67-074d-4805-b30d-35e46cb78198_PLA_5h36m
+^
+[error]	2025-04-13 15:54:29.030826[Thread 0x00007fc997fff6c0]:Failed to apply the print statistics to the export file name: Parsing error at line 1: Non-ASCII7 characters are only allowed inside text blocks and string literals, not inside code blocks.
+απτ¬a_90391c67-074d-4805-b30d-35e46cb78198_PLA_5h36m
+^
+[error]	2025-04-13 15:54:52.012361[Thread 0x00007fc997fff6c0]:Failed to apply the print statistics to the export file name: Parsing error at line 1: Non-ASCII7 characters are only allowed inside text blocks and string literals, not inside code blocks.
+απτ¬a_90391c67-074d-4805-b30d-35e46cb78198_PLA_5h42m
+^
+[error]	2025-04-14 07:27:52.344733[Thread 0x00007fca92a5d2c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-14 07:27:52.546049[Thread 0x00007fca92a5d2c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-14 07:27:52.832936[Thread 0x00007fca92a5d2c0]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-04-14 07:28:02.280762[Thread 0x00007fca095ff6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":64.000000,"clearance_height_to_lid":80.000000,"clearance_radius":55.000000,"printable_height":200.000000,
